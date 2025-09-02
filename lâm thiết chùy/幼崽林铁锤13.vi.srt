@@ -1,0 +1,915 @@
+1
+00:00:00,000 --> 00:00:02,340
+[SPEAKER_04]: Sắp đến nơi, vờ vội vàng bước tới.
+
+2
+00:00:02,340 --> 00:00:02,540
+[SPEAKER_01]: Không hay rồi,
+
+3
+00:00:02,780 --> 00:00:03,200
+[SPEAKER_01]: Đội trưởng,
+
+4
+00:00:03,620 --> 00:00:04,160
+[SPEAKER_01]: Thượng Tiến à,
+
+5
+00:00:04,380 --> 00:00:05,740
+[SPEAKER_01]: Quần lót nhà cậu cũng bị mất rồi.
+
+6
+00:00:05,740 --> 00:00:06,040
+[SPEAKER_01]: Không phải,
+
+7
+00:00:06,340 --> 00:00:07,320
+[SPEAKER_01]: Lợn rừng xuống núi rồi.
+
+8
+00:00:07,320 --> 00:00:07,520
+[SPEAKER_01]: Gì cơ,
+
+9
+00:00:07,840 --> 00:00:08,780
+[SPEAKER_01]: Cậu nói lợn rừng xuống núi rồi,
+
+10
+00:00:08,900 --> 00:00:09,980
+[SPEAKER_01]: Cậu không nhìn nhầm đấy chứ.
+
+11
+00:00:09,980 --> 00:00:11,020
+[SPEAKER_04]: Sắp phải thu hoạch gấp rồi,
+
+12
+00:00:11,220 --> 00:00:12,540
+[SPEAKER_04]: thật sự có lợn rừng phá hoại mùa màng,
+
+13
+00:00:12,700 --> 00:00:13,740
+[SPEAKER_04]: là chuyện lớn đấy.
+
+14
+00:00:13,740 --> 00:00:14,040
+[SPEAKER_06]: Đúng vậy,
+
+15
+00:00:14,320 --> 00:00:15,740
+[SPEAKER_06]: Lợn rừng mấy năm rồi không xuống núi,
+
+16
+00:00:15,980 --> 00:00:17,460
+[SPEAKER_06]: Thượng Tiến cậu đừng nói bậy.
+
+17
+00:00:17,460 --> 00:00:17,980
+[SPEAKER_06]: Đúng thế,
+
+18
+00:00:18,360 --> 00:00:19,920
+[SPEAKER_06]: Hữu Tài năm nào cũng tổ chức người lên núi,
+
+19
+00:00:20,200 --> 00:00:22,080
+[SPEAKER_06]: đến một cọng lông lợn rừng cũng chưa từng thấy.
+
+20
+00:00:22,080 --> 00:00:23,300
+[SPEAKER_02]: Tôi không cần phải nói dối mọi người về chuyện này,
+
+21
+00:00:23,540 --> 00:00:24,720
+[SPEAKER_02]: Lợn rừng đang ở núi Đại Thanh.
+
+22
+00:00:24,720 --> 00:00:25,160
+[SPEAKER_02]: Anh Hữu Tài,
+
+23
+00:00:25,400 --> 00:00:27,040
+[SPEAKER_02]: Anh tìm mấy người khỏe mạnh đi theo tôi.
+
+24
+00:00:27,040 --> 00:00:28,880
+[SPEAKER_04]: Lưu Hữu Tài thấy cậu ta không giống như đang nói đùa.
+
+25
+00:00:28,880 --> 00:00:29,640
+[SPEAKER_01]: Các thím các bác,
+
+26
+00:00:29,760 --> 00:00:31,280
+[SPEAKER_01]: bây giờ chúng ta đi giải quyết chuyện lợn rừng trước,
+
+27
+00:00:31,480 --> 00:00:33,280
+[SPEAKER_01]: chuyện tên trộm quần lót để sau khi về rồi nói.
+
+28
+00:00:33,280 --> 00:00:33,980
+[SPEAKER_04]: Tôi cũng đi.
+
+29
+00:00:33,980 --> 00:00:35,020
+[SPEAKER_04]: Lợn rừng là thịt đấy,
+
+30
+00:00:35,320 --> 00:00:37,240
+[SPEAKER_04]: đi có khi lại được chia thêm ít thịt.
+
+31
+00:00:37,240 --> 00:00:38,140
+[SPEAKER_04]: Tôi cũng đi.
+
+32
+00:00:38,140 --> 00:00:39,100
+[SPEAKER_04]: Tôi khỏe lắm,
+
+33
+00:00:39,400 --> 00:00:41,400
+[SPEAKER_04]: có thể giúp đánh lợn rừng.
+
+34
+00:00:41,400 --> 00:00:41,980
+[SPEAKER_04]: Thím Ba,
+
+35
+00:00:42,280 --> 00:00:43,880
+[SPEAKER_01]: Bác đừng đi góp vui nữa.
+
+36
+00:00:43,880 --> 00:00:44,940
+[SPEAKER_04]: Từ chối một thím Ba,
+
+37
+00:00:45,240 --> 00:00:47,740
+[SPEAKER_04]: nhưng không từ chối nổi một đám các bác gái tuy già mà khỏe.
+
+38
+00:00:47,740 --> 00:00:49,080
+[SPEAKER_04]: Một đám người cầm theo đòn gánh, chổi,
+
+39
+00:00:49,360 --> 00:00:51,840
+[SPEAKER_04]: hùng hổ kéo nhau đi về hướng núi Đại Thanh.
+
+40
+00:00:51,840 --> 00:00:52,960
+[SPEAKER_01]: Anh lợn rừng ơi.
+
+41
+00:00:52,960 --> 00:00:53,840
+[SPEAKER_01]: Anh ơi.
+
+42
+00:00:53,840 --> 00:00:54,480
+[SPEAKER_01]: Cha mẹ ơi,
+
+43
+00:00:54,680 --> 00:00:56,700
+[SPEAKER_01]: nếu đây thật sự là lợn rừng thì phải nặng đến 400 cân.
+
+44
+00:00:56,700 --> 00:00:57,160
+[SPEAKER_01]: Đừng lo,
+
+45
+00:00:57,380 --> 00:00:58,660
+[SPEAKER_01]: lợn rừng đã bị tôi đánh chết rồi.
+
+46
+00:00:58,660 --> 00:00:59,720
+[SPEAKER_02]: Tôi sợ nó còn có đồng bọn,
+
+47
+00:00:59,880 --> 00:01:01,420
+[SPEAKER_02]: nên mới quay về tìm đội trưởng.
+
+48
+00:01:01,420 --> 00:01:01,800
+[SPEAKER_06]: Lừa ai đấy?
+
+49
+00:01:02,060 --> 00:01:03,800
+[SPEAKER_06]: Cái thể trạng của cậu mà dám xé lợn rừng à.
+
+50
+00:01:03,800 --> 00:01:04,160
+[SPEAKER_06]: Đúng vậy,
+
+51
+00:01:04,480 --> 00:01:06,000
+[SPEAKER_06]: ngày thường làm còn không đủ công điểm,
+
+52
+00:01:06,220 --> 00:01:07,200
+[SPEAKER_06]: lại còn đòi đánh lợn rừng?
+
+53
+00:01:07,460 --> 00:01:08,960
+[SPEAKER_06]: Cười chết mất.
+
+54
+00:01:08,960 --> 00:01:10,940
+[SPEAKER_01]: Sao không nói gì nữa.
+
+55
+00:01:10,940 --> 00:01:11,960
+[SPEAKER_01]: Chết thật rồi,
+
+56
+00:01:12,120 --> 00:01:14,140
+[SPEAKER_01]: mấy người các cậu đi xem xung quanh còn lợn rừng không,
+
+57
+00:01:14,300 --> 00:01:15,960
+[SPEAKER_01]: các cậu khiêng con lợn rừng này về.
+
+58
+00:01:15,960 --> 00:01:16,420
+[SPEAKER_06]: Đối với thịt,
+
+59
+00:01:16,660 --> 00:01:17,680
+[SPEAKER_06]: mọi người đều rất tích cực.
+
+60
+00:01:17,680 --> 00:01:18,540
+[SPEAKER_06]: Thật không nhìn ra,
+
+61
+00:01:18,880 --> 00:01:20,260
+[SPEAKER_06]: Thượng Tiến lại có bản lĩnh này cơ đấy?
+
+62
+00:01:20,580 --> 00:01:21,800
+[SPEAKER_06]: Chưa chắc là cậu ta đánh chết,
+
+63
+00:01:22,000 --> 00:01:24,140
+[SPEAKER_06]: con lợn rừng này bao nhiêu người chúng ta còn không địch lại.
+
+64
+00:01:24,140 --> 00:01:25,400
+[SPEAKER_06]: Chắc là tiên nhân gửi đến,
+
+65
+00:01:25,680 --> 00:01:27,000
+[SPEAKER_06]: còn tại sao lại gửi cho cậu ta,
+
+66
+00:01:27,240 --> 00:01:28,440
+[SPEAKER_06]: thì không biết được.
+
+67
+00:01:28,440 --> 00:01:30,100
+[SPEAKER_06]: Sau này chúng ta đừng đặt điều về cậu ta nữa.
+
+68
+00:01:30,100 --> 00:01:32,240
+[SPEAKER_04]: Người tin vào cách nói này thật sự không ít.
+
+69
+00:01:32,240 --> 00:01:33,920
+[SPEAKER_04]: Dù sao thì trước đây ở chỗ họ cũng có một miếu tiên,
+
+70
+00:01:34,120 --> 00:01:36,800
+[SPEAKER_04]: sau này không cho mê tín dị đoan nên mới dỡ bỏ.
+
+71
+00:01:36,800 --> 00:01:37,240
+[SPEAKER_01]: Im lặng.
+
+72
+00:01:37,240 --> 00:01:38,320
+[SPEAKER_01]: Im lặng một chút.
+
+73
+00:01:38,320 --> 00:01:39,560
+[SPEAKER_01]: Lợn rừng là do Thượng Tiến đánh chết,
+
+74
+00:01:39,780 --> 00:01:41,680
+[SPEAKER_01]: nhà cậu ấy được chia thêm hai cân thịt cộng hai mươi công điểm,
+
+75
+00:01:41,900 --> 00:01:42,560
+[SPEAKER_01]: có ai có ý kiến gì không?
+
+76
+00:01:42,900 --> 00:01:44,100
+[SPEAKER_01]: Không có ý kiến.
+
+77
+00:01:44,100 --> 00:01:45,640
+[SPEAKER_01]: Chuyện tên trộm quần lót ngày mai sau khi chia thịt xong,
+
+78
+00:01:45,900 --> 00:01:47,700
+[SPEAKER_01]: chúng ta sẽ mở một cuộc họp để thảo luận cách giải quyết,
+
+79
+00:01:47,860 --> 00:01:48,500
+[SPEAKER_01]: có vấn đề gì không?
+
+80
+00:01:49,020 --> 00:01:50,180
+[SPEAKER_01]: Không có vấn đề.
+
+81
+00:01:50,180 --> 00:01:50,660
+[SPEAKER_01]: Vậy tan họp đi,
+
+82
+00:01:50,960 --> 00:01:52,560
+[SPEAKER_01]: mọi người về ăn cơm đi.
+
+83
+00:01:52,560 --> 00:01:53,460
+[SPEAKER_04]: Trời tối hẳn,
+
+84
+00:01:53,660 --> 00:01:54,820
+[SPEAKER_04]: Lâm Thượng Tiến mới về đến nhà.
+
+85
+00:01:55,460 --> 00:01:56,220
+[SPEAKER_04]: Trong phòng,
+
+86
+00:01:56,440 --> 00:01:58,200
+[SPEAKER_04]: Bạch Liên và Lưu Thúy Hoa phân công nhịp nhàng,
+
+87
+00:01:58,420 --> 00:01:59,160
+[SPEAKER_04]: một người cắt vải,
+
+88
+00:01:59,360 --> 00:02:00,580
+[SPEAKER_04]: một người may.
+
+89
+00:02:00,580 --> 00:02:01,420
+[SPEAKER_02]: Cô bé này ngủ say quá,
+
+90
+00:02:01,820 --> 00:02:03,200
+[SPEAKER_02]: tôi còn mang hamburger về cho con bé nữa.
+
+91
+00:02:03,200 --> 00:02:03,780
+[SPEAKER_05]: Lại mua hamburger,
+
+92
+00:02:04,060 --> 00:02:04,980
+[SPEAKER_05]: anh lại tiêu tiền linh tinh rồi.
+
+93
+00:02:04,980 --> 00:02:05,540
+[SPEAKER_02]: Đâu có tốn bao nhiêu?
+
+94
+00:02:05,800 --> 00:02:07,620
+[SPEAKER_02]: 9 tệ 9 mua cả bộ hamburger gà rán.
+
+95
+00:02:07,620 --> 00:02:08,560
+[SPEAKER_05]: Rẻ thế à.
+
+96
+00:02:08,560 --> 00:02:09,620
+[SPEAKER_02]: Anh phát hiện ra một nền tảng rất tiện lợi,
+
+97
+00:02:09,820 --> 00:02:10,960
+[SPEAKER_02]: mà lại còn rất rẻ,
+
+98
+00:02:11,220 --> 00:02:11,720
+[SPEAKER_02]: vừa được ăn ngon,
+
+99
+00:02:11,900 --> 00:02:12,420
+[SPEAKER_02]: lại vừa tiết kiệm tiền,
+
+100
+00:02:12,680 --> 00:02:14,600
+[SPEAKER_02]: gần đây anh toàn dựa vào phiếu giảm giá thần thánh của Xianyu,
+
+101
+00:02:14,800 --> 00:02:15,480
+[SPEAKER_02]: thật sự rất tiết kiệm,
+
+102
+00:02:15,700 --> 00:02:17,100
+[SPEAKER_02]: ăn uống vui chơi anh đề cử Xianxianyu.
+
+103
+00:02:17,340 --> 00:02:18,660
+[SPEAKER_02]: Xianyu thật sự quá thần kỳ,
+
+104
+00:02:18,980 --> 00:02:19,300
+[SPEAKER_05]: Thế nào rồi?
+
+105
+00:02:19,580 --> 00:02:20,700
+[SPEAKER_02]: Cống nạp một con lợn rừng,
+
+106
+00:02:20,900 --> 00:02:22,240
+[SPEAKER_02]: đợi tối đến trả lại quần lót,
+
+107
+00:02:22,460 --> 00:02:23,260
+[SPEAKER_02]: chắc là sẽ không sao nữa.
+
+108
+00:02:23,560 --> 00:02:23,700
+[SPEAKER_05]: Mẹ,
+
+109
+00:02:23,860 --> 00:02:24,580
+[SPEAKER_05]: cũng không còn nhiều nữa,
+
+110
+00:02:24,720 --> 00:02:25,500
+[SPEAKER_05]: mẹ đi ngủ trước đi.
+
+111
+00:02:25,900 --> 00:02:26,220
+[SPEAKER_02]: Vợ ơi,
+
+112
+00:02:26,420 --> 00:02:27,960
+[SPEAKER_02]: Thiết Chùy có nói là đã lấy của mấy nhà không?
+
+113
+00:02:28,360 --> 00:02:28,500
+[SPEAKER_05]: Mẹ,
+
+114
+00:02:28,700 --> 00:02:29,660
+[SPEAKER_05]: con ghi lại hết rồi,
+
+115
+00:02:29,860 --> 00:02:31,060
+[SPEAKER_05]: mẹ đến nhà Hải Đông trước đi.
+
+116
+00:02:31,540 --> 00:02:33,600
+[SPEAKER_05]: Cách trả lại quần lót vô cùng đơn giản và thô bạo,
+
+117
+00:02:33,800 --> 00:02:35,400
+[SPEAKER_05]: chỉ cần ném thẳng quần lót vào nhà người ta là được.
+
+118
+00:02:36,560 --> 00:02:37,420
+[SPEAKER_04]: Trời tờ mờ sáng,
+
+119
+00:02:37,660 --> 00:02:38,700
+[SPEAKER_04]: Thiết Chùy lim dim mắt,
+
+120
+00:02:38,920 --> 00:02:39,760
+[SPEAKER_04]: đứng ngẩn người trong sân.
+
+121
+00:02:39,760 --> 00:02:41,320
+[SPEAKER_00]: Mình định làm gì ấy nhỉ?
+
+122
+00:02:41,620 --> 00:02:42,700
+[SPEAKER_00]: Ký chủ nhỏ, đi thôi,
+
+123
+00:02:42,880 --> 00:02:44,080
+[SPEAKER_00]: đến lúc đi thu thập phân gà rồi.
+
+124
+00:02:44,260 --> 00:02:44,980
+[SPEAKER_04]: Lương không còn,
+
+125
+00:02:45,240 --> 00:02:46,280
+[SPEAKER_04]: tiền thưởng thì nó phải giữ lại.
+
+126
+00:02:46,700 --> 00:02:48,460
+[SPEAKER_00]: Nhưng hôm nay con không muốn đi,
+
+127
+00:02:48,760 --> 00:02:49,440
+[SPEAKER_00]: để dành đi.
+
+128
+00:02:50,740 --> 00:02:51,160
+[SPEAKER_00]: Bà nội,
+
+129
+00:02:51,420 --> 00:02:51,800
+[SPEAKER_00]: bà nội.
+
+130
+00:02:52,120 --> 00:02:52,800
+[SPEAKER_02]: Đừng làm ồn bà,
+
+131
+00:02:53,020 --> 00:02:53,980
+[SPEAKER_02]: lát nữa bố làm bữa sáng cho con.
+
+132
+00:02:54,360 --> 00:02:54,620
+[SPEAKER_04]: Bố,
+
+133
+00:02:54,800 --> 00:02:55,460
+[SPEAKER_04]: Bố dậy rồi à.
+
+134
+00:02:55,860 --> 00:02:57,000
+[SPEAKER_04]: Lâm Thượng Tiến buồn ngủ chết đi được,
+
+135
+00:02:57,240 --> 00:02:59,100
+[SPEAKER_04]: chưa ngủ được bao lâu đã phải dậy đi làm.
+
+136
+00:02:59,440 --> 00:03:00,300
+[SPEAKER_02]: Thiết Chùy, đi nhóm lửa đi.
+
+137
+00:03:00,760 --> 00:03:01,160
+[SPEAKER_00]: Vâng ạ,
+
+138
+00:03:01,440 --> 00:03:02,020
+[SPEAKER_00]: con đến đây.
+
+139
+00:03:03,560 --> 00:03:04,620
+[SPEAKER_00]: Chào buổi sáng bà Trương.
+
+140
+00:03:05,000 --> 00:03:05,660
+[SPEAKER_06]: Chào buổi sáng Thiết Chùy,
+
+141
+00:03:06,020 --> 00:03:07,340
+[SPEAKER_06]: Thượng Tiến cũng dậy sớm thế à.
+
+142
+00:03:07,340 --> 00:03:07,940
+[SPEAKER_06]: À đúng rồi,
+
+143
+00:03:08,100 --> 00:03:10,000
+[SPEAKER_06]: cái quần lót này ai để đây các người có thấy không?
+
+144
+00:03:10,280 --> 00:03:12,220
+[SPEAKER_06]: Cái quần lót này nhìn là biết mới.
+
+145
+00:03:12,340 --> 00:03:14,680
+[SPEAKER_06]: Ai tốt bụng đến mức tặng mình một cái quần lót mới vậy?
+
+146
+00:03:14,940 --> 00:03:16,960
+[SPEAKER_06]: Chẳng lẽ có người để ý mình rồi?
+
+147
+00:03:17,420 --> 00:03:18,060
+[SPEAKER_06]: Không thấy người đâu,
+
+148
+00:03:18,280 --> 00:03:19,220
+[SPEAKER_06]: không lẽ là ông Tần nhà bà.
+
+149
+00:03:19,500 --> 00:03:20,020
+[SPEAKER_04]: Phỉ phỉ phỉ.
+
+150
+00:03:20,460 --> 00:03:22,780
+[SPEAKER_04]: Biết Lâm Thượng Tiến không nói được lời hay ý đẹp, Trương Đại Cước vội ngắt lời,
+
+151
+00:03:22,980 --> 00:03:24,160
+[SPEAKER_04]: cầm quần lót đi vào nhà,
+
+152
+00:03:24,440 --> 00:03:25,140
+[SPEAKER_04]: sao có thể không cần chứ?
+
+153
+00:03:25,380 --> 00:03:27,140
+[SPEAKER_04]: Thời buổi này vải vóc là của hiếm đấy.
+
+154
+00:03:27,680 --> 00:03:28,920
+[SPEAKER_06]: Cũng không biết là ai,
+
+155
+00:03:29,140 --> 00:03:31,320
+[SPEAKER_06]: nhét một cái quần lót mới vào nhà tôi.
+
+156
+00:03:31,560 --> 00:03:32,740
+[SPEAKER_06]: Nhà tôi cũng có.
+
+157
+00:03:33,120 --> 00:03:33,900
+[SPEAKER_06]: Cả tôi nữa.
+
+158
+00:03:34,260 --> 00:03:35,020
+[SPEAKER_06]: Nhà tôi cũng có.
+
+159
+00:03:35,020 --> 00:03:35,580
+[SPEAKER_06]: Tôi,
+
+160
+00:03:35,860 --> 00:03:38,060
+[SPEAKER_06]: chẳng lẽ hôm qua không phải là tên trộm quần lót,
+
+161
+00:03:38,200 --> 00:03:41,240
+[SPEAKER_06]: mà là người tốt thấy quần lót của chúng ta cũ quá nên lấy đi đổi cái mới.
+
+162
+00:03:41,560 --> 00:03:42,500
+[SPEAKER_06]: Lại có kẻ ngốc như vậy sao.
+
+163
+00:03:42,940 --> 00:03:45,020
+[SPEAKER_06]: Theo tôi thấy là tiên gia hiển linh rồi.
+
+164
+00:03:45,520 --> 00:03:46,080
+[SPEAKER_01]: Thím Ba,
+
+165
+00:03:46,300 --> 00:03:47,240
+[SPEAKER_01]: Lời này không thể nói bừa được.
+
+166
+00:03:47,700 --> 00:03:48,160
+[SPEAKER_01]: Anh Hữu Tài,
+
+167
+00:03:48,460 --> 00:03:49,380
+[SPEAKER_01]: hôm nay chúng ta có họp nữa không?
+
+168
+00:03:49,800 --> 00:03:50,400
+[SPEAKER_01]: Họp cái gì mà họp,
+
+169
+00:03:50,560 --> 00:03:51,700
+[SPEAKER_01]: quần lót đều đã được trả lại rồi,
+
+170
+00:03:51,940 --> 00:03:53,660
+[SPEAKER_01]: có thời gian đó thà đi kiếm thêm hai công điểm còn hơn.
+
+171
+00:03:53,900 --> 00:03:55,260
+[SPEAKER_01]: Lát nữa tôi sẽ thông báo trên loa,
+
+172
+00:03:55,520 --> 00:03:57,040
+[SPEAKER_01]: để phòng lần sau lại xảy ra chuyện như vậy.
+
+173
+00:03:57,040 --> 00:03:57,800
+[SPEAKER_01]: Vậy thì,
+
+174
+00:03:58,020 --> 00:03:59,180
+[SPEAKER_01]: tôi còn sợ làm lỡ công việc nữa.
+
+175
+00:03:59,420 --> 00:03:59,900
+[SPEAKER_02]: Anh Hữu Tài,
+
+176
+00:04:00,120 --> 00:04:01,940
+[SPEAKER_02]: vợ tôi và mẹ tôi hôm nay xin nghỉ nửa ngày,
+
+177
+00:04:02,220 --> 00:04:03,040
+[SPEAKER_02]: nói trước với anh một tiếng.
+
+178
+00:04:03,640 --> 00:04:04,800
+[SPEAKER_02]: Con ngoan ngoãn chơi trong sân,
+
+179
+00:04:05,040 --> 00:04:06,040
+[SPEAKER_02]: đói thì trong nồi có trứng,
+
+180
+00:04:06,260 --> 00:04:07,480
+[SPEAKER_02]: đừng làm phiền bà và mẹ, biết không?
+
+181
+00:04:07,980 --> 00:04:08,380
+[SPEAKER_02]: À đúng rồi,
+
+182
+00:04:08,620 --> 00:04:10,080
+[SPEAKER_02]: nhớ nói là bố đã xin nghỉ nửa ngày cho họ.
+
+183
+00:04:10,540 --> 00:04:11,020
+[SPEAKER_04]: Biết rồi.
+
+184
+00:04:11,440 --> 00:04:12,760
+[SPEAKER_04]: Cậu bé đi một vòng quanh sân,
+
+185
+00:04:12,980 --> 00:04:14,360
+[SPEAKER_04]: quyết định quay về ôm mẹ ngủ.
+
+186
+00:04:15,040 --> 00:04:15,780
+[SPEAKER_04]: Ăn sáng chưa?
+
+187
+00:04:16,120 --> 00:04:16,760
+[SPEAKER_00]: Ăn rồi ạ,
+
+188
+00:04:16,960 --> 00:04:18,500
+[SPEAKER_00]: bố đã xin nghỉ nửa ngày cho mẹ rồi,
+
+189
+00:04:18,780 --> 00:04:20,120
+[SPEAKER_00]: hôm nay không cần đi làm đâu.
+
+190
+00:04:20,520 --> 00:04:21,480
+[SPEAKER_00]: Cũng xin cho bà nội rồi.
+
+191
+00:04:21,860 --> 00:04:23,100
+[SPEAKER_00]: Lát nữa sẽ đưa con đến nhà bà ngoại chơi.
+
+192
+00:04:23,520 --> 00:04:23,740
+[SPEAKER_05]: Được.
+
+193
+00:04:23,740 --> 00:04:24,820
+[SPEAKER_05]: Nó thích bà ngoại,
+
+194
+00:04:25,040 --> 00:04:26,260
+[SPEAKER_05]: cũng thích mấy anh họ nhỏ.
+
+195
+00:04:27,020 --> 00:04:28,500
+[SPEAKER_05]: Sao hôm nay không có tiếng kẻng đi làm?
+
+196
+00:04:29,180 --> 00:04:29,880
+[SPEAKER_05]: Hôm nay chia thịt,
+
+197
+00:04:30,140 --> 00:04:31,220
+[SPEAKER_05]: chắc là sẽ đi làm muộn hơn,
+
+198
+00:04:31,480 --> 00:04:32,880
+[SPEAKER_05]: Thượng Tiến đã xin cho chúng ta nghỉ nửa ngày,
+
+199
+00:04:33,140 --> 00:04:34,580
+[SPEAKER_05]: lát nữa em sẽ đưa Thiết Chùy về nhà ngoại.
+
+200
+00:04:34,900 --> 00:04:36,280
+[SPEAKER_05]: Em đi lấy thịt ra,
+
+201
+00:04:36,560 --> 00:04:37,320
+[SPEAKER_05]: lát nữa anh mang đi cho tiện.
+
+202
+00:04:37,840 --> 00:04:38,980
+[SPEAKER_05]: Mông còn đau không?
+
+203
+00:04:39,400 --> 00:04:40,660
+[SPEAKER_00]: Không còn đau lắm nữa,
+
+204
+00:04:40,860 --> 00:04:41,800
+[SPEAKER_00]: chỉ hơi ngứa thôi.
+
+205
+00:04:42,180 --> 00:04:42,540
+[SPEAKER_05]: Ráng chịu đi,
+
+206
+00:04:42,700 --> 00:04:43,180
+[SPEAKER_05]: đừng gãi.
+
+207
+00:04:44,040 --> 00:04:44,740
+[SPEAKER_00]: Anh Cương Đản,
+
+208
+00:04:44,960 --> 00:04:45,620
+[SPEAKER_00]: Anh Cẩu Đản.
+
+209
+00:04:45,980 --> 00:04:46,580
+[SPEAKER_05]: Thiết Chùy,
+
+210
+00:04:46,860 --> 00:04:47,220
+[SPEAKER_05]: Cô,
+
+211
+00:04:47,480 --> 00:04:49,200
+[SPEAKER_05]: mấy hôm trước bà còn nhắc đến con đấy?
+
+212
+00:04:49,560 --> 00:04:50,720
+[SPEAKER_05]: Bà con hôm nay có ở nhà không?
+
+213
+00:04:51,100 --> 00:04:51,820
+[SPEAKER_03]: Bà có ở nhà?
+
+214
+00:04:52,340 --> 00:04:53,320
+[SPEAKER_03]: Xem ai đến này?
+
+215
+00:04:53,320 --> 00:04:53,980
+[SPEAKER_00]: Bà ngoại.
+
+216
+00:04:54,940 --> 00:04:55,800
+[SPEAKER_03]: Tiểu Thiết Chùy,
+
+217
+00:04:56,020 --> 00:04:57,120
+[SPEAKER_03]: có nhớ bà ngoại không?
+
+218
+00:04:57,540 --> 00:04:57,780
+[SPEAKER_00]: Nhớ ạ.
+
+219
+00:04:58,100 --> 00:04:59,000
+[SPEAKER_03]: Bà ngoại cũng nhớ con,
+
+220
+00:04:59,180 --> 00:05:01,340
+[SPEAKER_03]: bà đã lén để dành cho con rất nhiều đồ ngon.
+
+221
+00:05:01,680 --> 00:05:03,520
+[SPEAKER_00]: Bà ngoại là bà ngoại tuyệt vời nhất.
+
+222
+00:05:03,880 --> 00:05:04,260
+[SPEAKER_03]: Ranh con,
+
+223
+00:05:04,560 --> 00:05:05,180
+[SPEAKER_03]: bà ngoại ôm nào.
+
+224
+00:05:05,400 --> 00:05:05,780
+[SPEAKER_00]: Không ôm,
+
+225
+00:05:06,120 --> 00:05:06,780
+[SPEAKER_00]: mông đau.
+
+226
+00:05:07,160 --> 00:05:07,760
+[SPEAKER_03]: Ai đánh?
+
+227
+00:05:08,140 --> 00:05:08,860
+[SPEAKER_00]: Mẹ đánh,
+
+228
+00:05:09,140 --> 00:05:10,180
+[SPEAKER_00]: nhưng đã .
+
+229
+00:05:10,180 --> 00:05:10,780
+[SPEAKER_03]: Bạch Tiểu Liên.
