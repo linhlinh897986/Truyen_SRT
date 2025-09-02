@@ -1,0 +1,887 @@
+1
+00:00:01,800 --> 00:00:04,680
+[SPEAKER_01]: Sau khi rửa tay sạch sẽ,
+
+2
+00:00:04,820 --> 00:00:06,560
+[SPEAKER_01]: Thiết Chùy vội vàng chạy vào phòng.
+
+3
+00:00:06,800 --> 00:00:09,020
+[SPEAKER_01]: Một chiếc bánh kem màu trắng được đặt ngay ngắn trên bàn,
+
+4
+00:00:09,080 --> 00:00:11,000
+[SPEAKER_01]: trong không khí còn có một mùi vị ngọt ngào.
+
+5
+00:00:11,580 --> 00:00:12,440
+[SPEAKER_00]: Ngọt ngọt,
+
+6
+00:00:12,600 --> 00:00:14,320
+[SPEAKER_00]: mùi vị chưa từng được nếm thử.
+
+7
+00:00:15,100 --> 00:00:15,500
+[SPEAKER_00]: Bà nội,
+
+8
+00:00:15,700 --> 00:00:15,940
+[SPEAKER_00]: Mẹ,
+
+9
+00:00:16,200 --> 00:00:16,800
+[SPEAKER_00]: mau qua đây.
+
+10
+00:00:18,060 --> 00:00:18,540
+[SPEAKER_02]: Sao thế,
+
+11
+00:00:18,720 --> 00:00:19,540
+[SPEAKER_02]: tôi đang xào rau.
+
+12
+00:00:19,960 --> 00:00:20,800
+[SPEAKER_00]: Bạch Liên cũng rất bận,
+
+13
+00:00:21,040 --> 00:00:21,900
+[SPEAKER_00]: cô ấy đang giặt quần áo.
+
+14
+00:00:22,640 --> 00:00:23,200
+[SPEAKER_00]: Mọi người xem,
+
+15
+00:00:23,360 --> 00:00:24,260
+[SPEAKER_01]: là bánh kem nhỏ.
+
+16
+00:00:24,620 --> 00:00:25,240
+[SPEAKER_01]: Bánh kem nhỏ?
+
+17
+00:00:25,860 --> 00:00:26,540
+[SPEAKER_01]: Ngọt ngọt,
+
+18
+00:00:26,720 --> 00:00:27,100
+[SPEAKER_01]: rất thơm.
+
+19
+00:00:27,460 --> 00:00:29,240
+[SPEAKER_01]: Không ai có thể từ chối bánh kem dâu tây nhỏ.
+
+20
+00:00:29,240 --> 00:00:31,100
+[SPEAKER_01]: Bạch Liên và Lưu Thúy Hoa cũng vậy.
+
+21
+00:00:31,340 --> 00:00:32,520
+[SPEAKER_01]: Thứ này từ đâu ra vậy?
+
+22
+00:00:32,800 --> 00:00:33,400
+[SPEAKER_02]: Ngon thật,
+
+23
+00:00:33,580 --> 00:00:34,480
+[SPEAKER_02]: không biết có dễ làm không.
+
+24
+00:00:34,660 --> 00:00:37,100
+[SPEAKER_02]: Nếu dễ làm thì đợi tôi rảnh sẽ nghiên cứu làm cho Thiết Chùy ăn.
+
+25
+00:00:37,540 --> 00:00:39,200
+[SPEAKER_00]: Dùng giun đất đổi lấy hệ thống à?
+
+26
+00:00:39,560 --> 00:00:40,740
+[SPEAKER_00]: Chỉ là quá nhỏ,
+
+27
+00:00:40,940 --> 00:00:41,620
+[SPEAKER_01]: không đủ ăn.
+
+28
+00:00:42,080 --> 00:00:44,480
+[SPEAKER_01]: Đây là lần thứ không biết bao nhiêu Lưu Thúy Hoa nghe thấy cái tên hệ thống.
+
+29
+00:00:44,860 --> 00:00:46,740
+[SPEAKER_01]: Trong không khí thoang thoảng một mùi vị kỳ lạ.
+
+30
+00:00:47,180 --> 00:00:47,320
+[SPEAKER_01]: Mẹ,
+
+31
+00:00:47,560 --> 00:00:48,280
+[SPEAKER_01]: lại cười nhạo con.
+
+32
+00:00:48,700 --> 00:00:48,980
+[SPEAKER_01]: Ây da.
+
+33
+00:00:49,900 --> 00:00:50,280
+[SPEAKER_01]: Thiết Chùy,
+
+34
+00:00:50,560 --> 00:00:52,080
+[SPEAKER_01]: sau này ra ngoài đừng nhắc đến hệ thống,
+
+35
+00:00:52,340 --> 00:00:54,020
+[SPEAKER_01]: những gì liên quan đến hệ thống cũng không được nhắc đến, biết chưa?
+
+36
+00:00:54,420 --> 00:00:54,600
+[SPEAKER_00]: Ừm,
+
+37
+00:00:54,840 --> 00:00:56,820
+[SPEAKER_00]: bố nói những thứ người khác không có.
+
+38
+00:00:56,820 --> 00:00:57,960
+[SPEAKER_00]: Nếu mình có,
+
+39
+00:00:58,260 --> 00:00:59,680
+[SPEAKER_00]: bị người khác biết sẽ bị cướp mất.
+
+40
+00:00:59,960 --> 00:01:01,120
+[SPEAKER_00]: Mặc dù hệ thống không thông minh,
+
+41
+00:01:01,320 --> 00:01:02,880
+[SPEAKER_00]: nhưng nó vẫn rất thích hệ thống.
+
+42
+00:01:03,260 --> 00:01:04,620
+[SPEAKER_02]: Rau trong nồi đã cháy thành than,
+
+43
+00:01:04,860 --> 00:01:06,060
+[SPEAKER_02]: hay là để lại cho Thượng Khánh ăn.
+
+44
+00:01:06,740 --> 00:01:08,300
+[SPEAKER_01]: Ăn cơm xong đi dạo vài vòng trong sân,
+
+45
+00:01:08,520 --> 00:01:09,760
+[SPEAKER_01]: cậu ngáp một cái, hơi buồn ngủ.
+
+46
+00:01:10,160 --> 00:01:10,420
+[SPEAKER_00]: Mẹ,
+
+47
+00:01:10,760 --> 00:01:13,160
+[SPEAKER_00]: sau này mẹ đi làm đừng khóa cửa được không?
+
+48
+00:01:13,680 --> 00:01:15,540
+[SPEAKER_00]: Vậy con không được đi phá phách đồ đạc nhà người khác,
+
+49
+00:01:15,720 --> 00:01:16,180
+[SPEAKER_01]: biết không?
+
+50
+00:01:16,620 --> 00:01:16,860
+[SPEAKER_01]: Vâng.
+
+51
+00:01:17,660 --> 00:01:18,020
+[SPEAKER_01]: .
+
+52
+00:01:18,020 --> 00:01:19,440
+[SPEAKER_01]: Khi mở mắt ra trên giường chỉ có một mình,
+
+53
+00:01:19,720 --> 00:01:22,020
+[SPEAKER_01]: Thiết Chùy dụi dụi đầu tóc rối bù xuống giường đi về phía nhà xí.
+
+54
+00:01:22,640 --> 00:01:23,960
+[SPEAKER_01]: Giải quyết xong chuyện đại sự sinh lý,
+
+55
+00:01:24,160 --> 00:01:25,080
+[SPEAKER_01]: cậu chạy đến cổng sân,
+
+56
+00:01:25,340 --> 00:01:27,340
+[SPEAKER_01]: thấy không khóa mới đóng cổng lại,
+
+57
+00:01:27,560 --> 00:01:28,260
+[SPEAKER_01]: đi về phòng.
+
+58
+00:01:28,640 --> 00:01:29,220
+[SPEAKER_00]: Hệ thống,
+
+59
+00:01:29,420 --> 00:01:31,300
+[SPEAKER_00]: có phải ngươi còn có thứ gì chưa cho ta không?
+
+60
+00:01:31,680 --> 00:01:32,440
+[SPEAKER_01]: Bị phát hiện rồi.
+
+61
+00:01:32,720 --> 00:01:33,780
+[SPEAKER_00]: Mười điểm tích lũy đã được ghi vào tài khoản,
+
+62
+00:01:33,960 --> 00:01:34,920
+[SPEAKER_00]: số dư hiện tại là mười.
+
+63
+00:01:35,160 --> 00:01:36,100
+[SPEAKER_00]: Tôi muốn mua cái này.
+
+64
+00:01:36,100 --> 00:01:38,080
+[SPEAKER_00]: Ultraman cần một trăm điểm tích lũy,
+
+65
+00:01:38,280 --> 00:01:39,300
+[SPEAKER_00]: số dư hiện tại không đủ.
+
+66
+00:01:39,860 --> 00:01:41,100
+[SPEAKER_00]: Cái gì mà cần một trăm,
+
+67
+00:01:41,320 --> 00:01:42,240
+[SPEAKER_00]: đây không phải là bắt nạt người ta sao?
+
+68
+00:01:42,620 --> 00:01:43,440
+[SPEAKER_00]: Một lần cho mười,
+
+69
+00:01:43,640 --> 00:01:45,760
+[SPEAKER_00]: phải bao nhiêu lần mới được một trăm nhỉ?
+
+70
+00:01:46,180 --> 00:01:46,820
+[SPEAKER_00]: Càng đếm càng loạn,
+
+71
+00:01:47,020 --> 00:01:47,960
+[SPEAKER_00]: cậu dứt khoát không đếm nữa.
+
+72
+00:01:48,320 --> 00:01:49,660
+[SPEAKER_00]: Vậy tôi có thể mua được cái gì?
+
+73
+00:01:50,120 --> 00:01:51,300
+[SPEAKER_00]: Vật phẩm mười điểm tích lũy có,
+
+74
+00:01:51,540 --> 00:01:52,500
+[SPEAKER_00]: máy học chữ Bubuxing.
+
+75
+00:01:52,800 --> 00:01:53,600
+[SPEAKER_00]: Một cuốn sách rách,
+
+76
+00:01:53,800 --> 00:01:54,720
+[SPEAKER_00]: tôi không thèm đâu.
+
+77
+00:01:55,140 --> 00:01:56,520
+[SPEAKER_00]: Ký chủ nhỏ tiếp tục cố gắng nhé.
+
+78
+00:01:56,920 --> 00:01:58,080
+[SPEAKER_01]: Thiết Chùy không thèm để ý đến hệ thống nữa,
+
+79
+00:01:58,320 --> 00:01:59,460
+[SPEAKER_01]: quay người đi đến cổng sân.
+
+80
+00:02:00,180 --> 00:02:01,180
+[SPEAKER_01]: Đi đâu bây giờ nhỉ?
+
+81
+00:02:01,600 --> 00:02:02,340
+[SPEAKER_01]: Nhìn trái nhìn phải,
+
+82
+00:02:02,640 --> 00:02:04,260
+[SPEAKER_01]: cuối cùng vẫn quyết định đi tìm chị Tiểu Hoa chơi.
+
+83
+00:02:05,020 --> 00:02:05,840
+[SPEAKER_00]: Chị Tiểu Hoa?
+
+84
+00:02:05,840 --> 00:02:07,140
+[SPEAKER_01]: Em đến tìm chị chơi đây.
+
+85
+00:02:07,360 --> 00:02:08,560
+[SPEAKER_01]: Trong sân rất yên tĩnh,
+
+86
+00:02:08,700 --> 00:02:09,920
+[SPEAKER_01]: không nghe thấy tiếng nói chuyện.
+
+87
+00:02:10,240 --> 00:02:11,040
+[SPEAKER_01]: Không có nhà sao?
+
+88
+00:02:11,440 --> 00:02:12,180
+[SPEAKER_01]: Quay người rời đi,
+
+89
+00:02:12,460 --> 00:02:13,460
+[SPEAKER_01]: đi lang thang trong làng.
+
+90
+00:02:15,220 --> 00:02:15,800
+[SPEAKER_00]: Tam Mao,
+
+91
+00:02:16,020 --> 00:02:17,100
+[SPEAKER_00]: các cậu đang chơi gì thế?
+
+92
+00:02:17,500 --> 00:02:18,640
+[SPEAKER_00]: Thiết Chùy cậu mau buông tay,
+
+93
+00:02:18,880 --> 00:02:19,580
+[SPEAKER_00]: đang đấu địa chủ.
+
+94
+00:02:19,840 --> 00:02:20,800
+[SPEAKER_00]: Lát nữa không kịp bây giờ.
+
+95
+00:02:21,140 --> 00:02:21,780
+[SPEAKER_00]: Đấu địa chủ,
+
+96
+00:02:22,000 --> 00:02:23,640
+[SPEAKER_00]: nghe có vẻ rất vui.
+
+97
+00:02:24,000 --> 00:02:24,720
+[SPEAKER_01]: Cậu buông tay ra,
+
+98
+00:02:24,920 --> 00:02:26,360
+[SPEAKER_01]: đi theo sau mông Tam Mao.
+
+99
+00:02:26,800 --> 00:02:28,240
+[SPEAKER_01]: Thiết Chùy đi một vòng quanh mấy người,
+
+100
+00:02:28,620 --> 00:02:29,980
+[SPEAKER_01]: thực sự không hiểu trò này có gì vui.
+
+101
+00:02:30,360 --> 00:02:31,000
+[SPEAKER_00]: Mày nhìn cái gì?
+
+102
+00:02:31,400 --> 00:02:32,200
+[SPEAKER_00]: Nhìn mày thì sao?
+
+103
+00:02:32,640 --> 00:02:33,700
+[SPEAKER_00]: Nhìn nữa tao đánh mày.
+
+104
+00:02:33,700 --> 00:02:34,300
+[SPEAKER_00]: Hê,
+
+105
+00:02:34,480 --> 00:02:35,760
+[SPEAKER_00]: tao Thiết Chùy lớn từng này,
+
+106
+00:02:35,980 --> 00:02:37,140
+[SPEAKER_00]: còn chưa sợ ai bao giờ.
+
+107
+00:02:37,620 --> 00:02:38,780
+[SPEAKER_00]: Tao cứ nhìn mày đấy thì sao?
+
+108
+00:02:39,000 --> 00:02:39,740
+[SPEAKER_00]: Mày đánh tao đi?
+
+109
+00:02:40,100 --> 00:02:40,320
+[SPEAKER_00]: Mày,
+
+110
+00:02:40,660 --> 00:02:41,840
+[SPEAKER_00]: hảo nam không đấu với nữ.
+
+111
+00:02:42,160 --> 00:02:44,400
+[SPEAKER_00]: Đây tuyệt đối không phải vì sợ bố của Thiết Chùy, Thượng Tiến.
+
+112
+00:02:44,400 --> 00:02:45,620
+[SPEAKER_00]: Anh em đi,
+
+113
+00:02:45,800 --> 00:02:46,380
+[SPEAKER_00]: đợi đã,
+
+114
+00:02:46,820 --> 00:02:48,500
+[SPEAKER_00]: mày như vậy mà cũng đòi làm đại ca.
+
+115
+00:02:48,860 --> 00:02:49,300
+[SPEAKER_00]: Sao nào,
+
+116
+00:02:49,660 --> 00:02:50,700
+[SPEAKER_00]: tao muốn làm đại ca.
+
+117
+00:02:50,940 --> 00:02:53,020
+[SPEAKER_00]: Người lợi hại mới được làm đại ca của bọn tao.
+
+118
+00:02:53,360 --> 00:02:54,600
+[SPEAKER_00]: Tao siêu lợi hại,
+
+119
+00:02:54,920 --> 00:02:55,560
+[SPEAKER_00]: không tin à.
+
+120
+00:02:56,000 --> 00:02:57,040
+[SPEAKER_00]: Ai gọi tao là đại ca,
+
+121
+00:02:57,240 --> 00:02:58,280
+[SPEAKER_00]: tao cho người đó kẹo.
+
+122
+00:02:58,680 --> 00:02:59,560
+[SPEAKER_00]: Đại ca Thiết Chùy,
+
+123
+00:02:59,900 --> 00:03:00,740
+[SPEAKER_00]: Đại ca Thiết Chùy.
+
+124
+00:03:01,140 --> 00:03:01,560
+[SPEAKER_00]: Thế nào,
+
+125
+00:03:01,800 --> 00:03:03,160
+[SPEAKER_00]: có muốn nhận tao làm đại ca không?
+
+126
+00:03:03,500 --> 00:03:04,420
+[SPEAKER_00]: Chúng ta đánh một trận,
+
+127
+00:03:04,720 --> 00:03:05,520
+[SPEAKER_00]: ai thắng người đó làm đại ca,
+
+128
+00:03:05,800 --> 00:03:06,900
+[SPEAKER_00]: không được mách người nhà.
+
+129
+00:03:06,900 --> 00:03:07,800
+[SPEAKER_00]: Được thôi.
+
+130
+00:03:08,180 --> 00:03:09,520
+[SPEAKER_00]: Đệ tử, cho nó một trận,
+
+131
+00:03:09,760 --> 00:03:11,140
+[SPEAKER_00]: đánh thắng cho thêm một viên kẹo.
+
+132
+00:03:11,660 --> 00:03:13,320
+[SPEAKER_01]: Dưới sự áp đảo về số lượng và sự cám dỗ của kẹo,
+
+133
+00:03:13,580 --> 00:03:14,640
+[SPEAKER_01]: Thiết Chùy còn chưa động ngón tay,
+
+134
+00:03:14,960 --> 00:03:16,540
+[SPEAKER_00]: đã dễ dàng ngồi lên vị trí đại ca.
+
+135
+00:03:16,980 --> 00:03:18,720
+[SPEAKER_00]: Đây có phải là điều bố nói,
+
+136
+00:03:18,940 --> 00:03:20,280
+[SPEAKER_00]: dùng đúng người làm việc hiệu quả gấp đôi?
+
+137
+00:03:20,660 --> 00:03:21,120
+[SPEAKER_01]: Đại ca.
+
+138
+00:03:21,540 --> 00:03:22,600
+[SPEAKER_01]: Giọng nói còn nhỏ hơn muỗi kêu,
+
+139
+00:03:22,880 --> 00:03:23,920
+[SPEAKER_01]: nhưng Thiết Chùy không để tâm,
+
+140
+00:03:24,160 --> 00:03:26,520
+[SPEAKER_01]: cậu nghĩ ra một cách hay để hoàn thành nhiệm vụ 100 cân rau dại.
+
+141
+00:03:26,960 --> 00:03:27,560
+[SPEAKER_00]: Đệ tử,
+
+142
+00:03:27,860 --> 00:03:29,160
+[SPEAKER_00]: có muốn ngày nào cũng được ăn kẹo không?
+
+143
+00:03:29,680 --> 00:03:29,920
+[SPEAKER_00]: Chào,
+
+144
+00:03:30,160 --> 00:03:30,600
+[SPEAKER_00]: đại ca.
+
+145
+00:03:31,020 --> 00:03:32,600
+[SPEAKER_00]: Cỏ lợn cỏ bò đều biết cả chứ?
+
+146
+00:03:33,000 --> 00:03:33,320
+[SPEAKER_00]: Biết ạ.
+
+147
+00:03:33,780 --> 00:03:34,920
+[SPEAKER_00]: Biết là tốt rồi.
+
+148
+00:03:34,920 --> 00:03:37,660
+[SPEAKER_00]: Một đống cỏ lợn to khoảng này đổi một viên kẹo,
+
+149
+00:03:37,880 --> 00:03:39,020
+[SPEAKER_00]: cứ chất sang một bên là được,
+
+150
+00:03:39,280 --> 00:03:41,920
+[SPEAKER_00]: một ngày kiếm được bao nhiêu kẹo là tùy vào bản lĩnh của các cậu.
+
+151
+00:03:42,300 --> 00:03:42,800
+[SPEAKER_00]: Đại ca,
+
+152
+00:03:42,980 --> 00:03:43,760
+[SPEAKER_00]: việc này con làm.
+
+153
+00:03:44,060 --> 00:03:44,600
+[SPEAKER_00]: Đại ca,
+
+154
+00:03:44,840 --> 00:03:45,400
+[SPEAKER_00]: con cũng làm.
+
+155
+00:03:45,780 --> 00:03:46,480
+[SPEAKER_00]: Còn con nữa.
+
+156
+00:03:46,820 --> 00:03:47,220
+[SPEAKER_00]: Còn cậu thì sao?
+
+157
+00:03:47,880 --> 00:03:48,940
+[SPEAKER_00]: Đây là ai nhỉ,
+
+158
+00:03:49,200 --> 00:03:50,560
+[SPEAKER_00]: hình như tên là Thạch Đầu thì phải?
+
+159
+00:03:50,940 --> 00:03:52,320
+[SPEAKER_00]: Trông không được thông minh cho lắm,
+
+160
+00:03:52,560 --> 00:03:54,280
+[SPEAKER_00]: không giống người biết làm việc,
+
+161
+00:03:54,460 --> 00:03:55,720
+[SPEAKER_00]: không thích hợp làm đệ tử.
+
+162
+00:03:56,220 --> 00:03:57,180
+[SPEAKER_00]: Chuyện lỗ vốn không làm,
+
+163
+00:03:57,400 --> 00:03:58,260
+[SPEAKER_00]: cậu quay người bỏ đi.
+
+164
+00:03:58,640 --> 00:04:01,000
+[SPEAKER_00]: Tình cảm mà nói, những chỉ số IQ đó không có chút nào là của nhà họ Bạch.
+
+165
+00:04:01,480 --> 00:04:02,700
+[SPEAKER_00]: Lừa gạt ký chủ phải趁 sớm,
+
+166
+00:04:03,040 --> 00:04:04,420
+[SPEAKER_00]: lớn rồi sẽ không lừa được nữa.
+
+167
+00:04:05,220 --> 00:04:06,200
+[SPEAKER_00]: Dừng, dừng, dừng,
+
+168
+00:04:06,520 --> 00:04:07,600
+[SPEAKER_00]: hôm nay không thu nữa,
+
+169
+00:04:07,900 --> 00:04:09,140
+[SPEAKER_00]: ngày mai các cậu đến tìm tôi,
+
+170
+00:04:09,400 --> 00:04:10,160
+[SPEAKER_00]: chúng ta lại tiếp tục.
+
+171
+00:04:10,460 --> 00:04:11,760
+[SPEAKER_00]: Chuyện này chúng ta làm lén,
+
+172
+00:04:12,020 --> 00:04:13,940
+[SPEAKER_00]: đợi người lớn đi làm rồi hãy đến, biết chưa?
+
+173
+00:04:13,940 --> 00:04:14,640
+[SPEAKER_00]: Vâng,
+
+174
+00:04:14,940 --> 00:04:15,780
+[SPEAKER_00]: đại ca Thiết Chùy.
+
+175
+00:04:15,980 --> 00:04:16,900
+[SPEAKER_00]: Tan cả đi,
+
+176
+00:04:17,180 --> 00:04:17,900
+[SPEAKER_00]: ai về nhà nấy,
+
+177
+00:04:18,120 --> 00:04:18,800
+[SPEAKER_00]: mẹ ai người nấy tìm.
+
+178
+00:04:19,280 --> 00:04:19,700
+[SPEAKER_00]: Đại...
+
+179
+00:04:19,700 --> 00:04:20,500
+[SPEAKER_00]: Đại ca,
+
+180
+00:04:20,700 --> 00:04:21,920
+[SPEAKER_00]: còn thu cỏ lợn không ạ?
+
+181
+00:04:22,380 --> 00:04:23,500
+[SPEAKER_01]: Thiết Chùy quay đầu nhìn,
+
+182
+00:04:23,780 --> 00:04:25,060
+[SPEAKER_01]: Thạch Đầu đứng cách đó không xa,
+
+183
+00:04:25,280 --> 00:04:26,600
+[SPEAKER_01]: bên cạnh còn có một đống cỏ lợn lớn.
+
+184
+00:04:26,900 --> 00:04:27,680
+[SPEAKER_00]: Không ngờ đấy,
+
+185
+00:04:27,880 --> 00:04:28,900
+[SPEAKER_00]: cũng khá là có năng lực.
+
+186
+00:04:29,280 --> 00:04:30,540
+[SPEAKER_00]: Nhưng mà tôi hết kẹo rồi.
+
+187
+00:04:30,880 --> 00:04:31,380
+[SPEAKER_00]: Đại ca,
+
+188
+00:04:31,520 --> 00:04:32,380
+[SPEAKER_00]: em không cần kẹo,
+
+189
+00:04:32,700 --> 00:04:34,380
+[SPEAKER_00]: anh nhận em làm đệ tử là được rồi.
+
+190
+00:04:34,380 --> 00:04:35,980
+[SPEAKER_00]: Cậu không muốn làm địa chủ nữa,
+
+191
+00:04:36,180 --> 00:04:37,560
+[SPEAKER_01]: từ khi nhận Hồ Tử làm đại ca,
+
+192
+00:04:37,760 --> 00:04:39,020
+[SPEAKER_01]: cậu ngày nào cũng bị bắt nạt.
+
+193
+00:04:39,580 --> 00:04:41,320
+[SPEAKER_01]: Thiết Chùy vô cùng ngưỡng mộ nhân tài như vậy,
+
+194
+00:04:41,600 --> 00:04:42,760
+[SPEAKER_01]: chăm chỉ làm việc mà không cần báo đáp,
+
+195
+00:04:43,000 --> 00:04:44,200
+[SPEAKER_01]: đệ tử như vậy nhất định phải có.
+
+196
+00:04:44,560 --> 00:04:46,860
+[SPEAKER_00]: Từ nay về sau cậu là đệ tử của Thiết Chùy tôi,
+
+197
+00:04:47,100 --> 00:04:48,980
+[SPEAKER_00]: có ai bắt nạt cậu cứ báo danh của tôi.
+
+198
+00:04:49,380 --> 00:04:49,660
+[SPEAKER_00]: Vâng,
+
+199
+00:04:49,860 --> 00:04:50,680
+[SPEAKER_00]: đại ca Thiết Chùy,
+
+200
+00:04:50,960 --> 00:04:52,660
+[SPEAKER_00]: vậy ngày mai em đến tìm anh được không?
+
+201
+00:04:52,660 --> 00:04:53,820
+[SPEAKER_00]: Đương nhiên là được.
+
+202
+00:04:54,360 --> 00:04:55,860
+[SPEAKER_01]: Lao động không công không lấy thì phí,
+
+203
+00:04:56,120 --> 00:04:57,060
+[SPEAKER_01]: Thiết Chùy tinh ranh lắm.
+
+204
+00:04:57,440 --> 00:04:59,040
+[SPEAKER_01]: Thiết Chùy quan sát kỹ xung quanh,
+
+205
+00:04:59,320 --> 00:05:01,220
+[SPEAKER_01]: chắc chắn không có ai mới bắt đầu để hệ thống hành động.
+
+206
+00:05:01,660 --> 00:05:02,140
+[SPEAKER_00]: Hệ thống,
+
+207
+00:05:02,340 --> 00:05:03,000
+[SPEAKER_00]: thu đi.
+
+208
+00:05:03,600 --> 00:05:05,380
+[SPEAKER_00]: Cập nhật nhiệm vụ thu thập rau dại 100 cân,
+
+209
+00:05:05,620 --> 00:05:06,940
+[SPEAKER_00]: đã thu thập 9.85 cân,
+
+210
+00:05:07,200 --> 00:05:08,280
+[SPEAKER_00]: ký chủ nhỏ cố lên nhé.
+
+211
+00:05:08,520 --> 00:05:10,580
+[SPEAKER_00]: Một đống to như vậy mà mới được 9.85 cân,
+
+212
+00:05:10,920 --> 00:05:12,680
+[SPEAKER_00]: vậy làm xong nhiệm vụ còn cần 9 ngày nữa,
+
+213
+00:05:13,060 --> 00:05:14,800
+[SPEAKER_00]: hôm nay tổng cộng đã dùng 8 viên kẹo.
+
+214
+00:05:15,240 --> 00:05:16,280
+[SPEAKER_00]: Một ngày 8 viên kẹo,
+
+215
+00:05:16,580 --> 00:05:17,380
+[SPEAKER_00]: 9 ngày là...
+
+216
+00:05:17,380 --> 00:05:19,040
+[SPEAKER_00]: ngón tay cộng ngón chân cũng không đếm xuể.
+
+217
+00:05:19,040 --> 00:05:19,820
+[SPEAKER_00]: Toi rồi,
+
+218
+00:05:20,040 --> 00:05:21,220
+[SPEAKER_00]: chém gió quá đà rồi,
+
+219
+00:05:21,500 --> 00:05:23,580
+[SPEAKER_00]: hình như ở nhà không có nhiều kẹo như vậy,
+
+220
+00:05:23,880 --> 00:05:24,660
+[SPEAKER_00]: phải làm sao bây giờ?
+
+221
+00:05:25,100 --> 00:05:27,300
+[SPEAKER_00]: Không thể nào làm đại ca được có hai ngày chứ.
+
+222
+00:05:27,640 --> 00:05:28,740
+[SPEAKER_00]: Cậu mới nghiện làm đại ca thôi.
