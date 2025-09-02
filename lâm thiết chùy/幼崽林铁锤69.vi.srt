@@ -1,0 +1,759 @@
+1
+00:00:00,000 --> 00:00:01,540
+[SPEAKER_02]: Cuối cùng cũng nhận ra mọi người,
+
+2
+00:00:01,660 --> 00:00:03,740
+[SPEAKER_02]: Phương Hùng bắt đầu giảng cho họ những kỷ luật đơn giản.
+
+3
+00:00:03,920 --> 00:00:04,500
+[SPEAKER_00]: Huấn luyện viên,
+
+4
+00:00:04,680 --> 00:00:05,500
+[SPEAKER_02]: Tôi muốn đi vệ sinh,
+
+5
+00:00:05,700 --> 00:00:06,600
+[SPEAKER_02]: Sắp không nhịn được nữa rồi,
+
+6
+00:00:06,800 --> 00:00:07,580
+[SPEAKER_02]: Tôi cũng muốn đi.
+
+7
+00:00:07,940 --> 00:00:08,600
+[SPEAKER_02]: Tôi cũng vậy.
+
+8
+00:00:09,300 --> 00:00:11,360
+[SPEAKER_02]: Phương Hùng mặt mày sa sầm dẫn bọn trẻ đi nhà xí,
+
+9
+00:00:11,620 --> 00:00:12,880
+[SPEAKER_02]: Còn phải chạy về lấy giấy cho chúng.
+
+10
+00:00:13,660 --> 00:00:14,660
+[SPEAKER_02]: Xếp hàng lại,
+
+11
+00:00:14,900 --> 00:00:15,760
+[SPEAKER_02]: Tiếp tục giảng kỷ luật.
+
+12
+00:00:16,220 --> 00:00:16,900
+[SPEAKER_02]: Huấn luyện viên Hùng,
+
+13
+00:00:17,060 --> 00:00:17,760
+[SPEAKER_00]: Tôi khát rồi.
+
+14
+00:00:18,100 --> 00:00:18,960
+[SPEAKER_03]: Còn gì khác không?
+
+15
+00:00:19,320 --> 00:00:19,960
+[SPEAKER_00]: Hết rồi.
+
+16
+00:00:20,400 --> 00:00:20,900
+[SPEAKER_03]: Tất cả đứng nghiêm,
+
+17
+00:00:21,180 --> 00:00:21,560
+[SPEAKER_03]: Bên trái quay,
+
+18
+00:00:21,800 --> 00:00:22,520
+[SPEAKER_03]: Tất cả chạy cho tôi.
+
+19
+00:00:22,860 --> 00:00:23,680
+[SPEAKER_02]: Chạy thì chạy thôi,
+
+20
+00:00:23,980 --> 00:00:24,460
+[SPEAKER_02]: Hung dữ ngốc nghếch.
+
+21
+00:00:24,720 --> 00:00:25,560
+[SPEAKER_02]: Chạy được ba vòng,
+
+22
+00:00:25,880 --> 00:00:26,260
+[SPEAKER_02]: Dư Tĩnh,
+
+23
+00:00:26,460 --> 00:00:26,880
+[SPEAKER_02]: Quách tỷ thả,
+
+24
+00:00:27,180 --> 00:00:28,360
+[SPEAKER_02]: Thẩm Trân Châu đã chạy không nổi nữa,
+
+25
+00:00:28,360 --> 00:00:30,160
+[SPEAKER_02]: Mặc kệ tất cả ngồi phịch xuống đất.
+
+26
+00:00:30,240 --> 00:00:30,880
+[SPEAKER_03]: Tất cả đứng dậy,
+
+27
+00:00:31,060 --> 00:00:31,620
+[SPEAKER_03]: Còn thiếu hai vòng,
+
+28
+00:00:31,880 --> 00:00:32,820
+[SPEAKER_03]: Dù là bò cũng phải bò cho xong.
+
+29
+00:00:33,260 --> 00:00:33,840
+[SPEAKER_02]: Hu hu hu,
+
+30
+00:00:34,080 --> 00:00:34,880
+[SPEAKER_02]: Tôi muốn về nhà.
+
+31
+00:00:35,300 --> 00:00:36,060
+[SPEAKER_02]: Hu hu hu hu,
+
+32
+00:00:36,300 --> 00:00:36,880
+[SPEAKER_02]: Tôi muốn mẹ.
+
+33
+00:00:37,460 --> 00:00:38,460
+[SPEAKER_02]: Phương Hùng đau cả đầu,
+
+34
+00:00:38,720 --> 00:00:39,780
+[SPEAKER_02]: Thiết Chùy ở một bên cười trộm.
+
+35
+00:00:40,240 --> 00:00:40,740
+[SPEAKER_03]: Cười cười cười,
+
+36
+00:00:40,960 --> 00:00:41,760
+[SPEAKER_03]: Nhà ngươi chạy hai vòng,
+
+37
+00:00:42,040 --> 00:00:43,000
+[SPEAKER_03]: Chạy không xong không được ăn cơm.
+
+38
+00:00:43,320 --> 00:00:43,880
+[SPEAKER_03]: Các ngươi cũng vậy,
+
+39
+00:00:44,100 --> 00:00:45,180
+[SPEAKER_03]: Chạy không xong không được ăn cơm,
+
+40
+00:00:45,400 --> 00:00:46,640
+[SPEAKER_03]: Ta có khối thời gian xếp số cho các ngươi.
+
+41
+00:00:47,080 --> 00:00:47,960
+[SPEAKER_00]: Không ăn thì không ăn,
+
+42
+00:00:48,220 --> 00:00:49,160
+[SPEAKER_00]: Ngươi bỏ đói chết ta đi?
+
+43
+00:00:49,540 --> 00:00:49,980
+[SPEAKER_00]: Đúng vậy,
+
+44
+00:00:50,180 --> 00:00:51,760
+[SPEAKER_00]: Có bản lĩnh thì ngươi bỏ đói chết chúng ta đi.
+
+45
+00:00:52,260 --> 00:00:52,420
+[SPEAKER_03]: Cố lên,
+
+46
+00:00:52,640 --> 00:00:53,460
+[SPEAKER_03]: Các ngươi cứ nằm đó đi,
+
+47
+00:00:53,840 --> 00:00:55,060
+[SPEAKER_03]: Các ngươi quả thực không có chút kỷ luật nào,
+
+48
+00:00:55,400 --> 00:00:56,300
+[SPEAKER_03]: Kỷ luật lớn hơn tất cả,
+
+49
+00:00:56,540 --> 00:00:57,020
+[SPEAKER_03]: Có hiểu không.
+
+50
+00:00:57,020 --> 00:00:58,220
+[SPEAKER_00]: Thiết Chùy muội muội,
+
+51
+00:00:58,380 --> 00:00:58,980
+[SPEAKER_00]: Cho muội ăn này.
+
+52
+00:00:59,220 --> 00:01:00,260
+[SPEAKER_03]: Coi như ta không tồn tại phải không,
+
+53
+00:01:00,620 --> 00:01:01,240
+[SPEAKER_03]: Cơm bị tịch thu,
+
+54
+00:01:01,520 --> 00:01:02,440
+[SPEAKER_03]: Vừa rồi còn phạt ngươi đứng cùng.
+
+55
+00:01:02,800 --> 00:01:03,920
+[SPEAKER_00]: Nguội rồi sẽ không ngon nữa,
+
+56
+00:01:04,140 --> 00:01:05,440
+[SPEAKER_00]: Ngươi đang lãng phí lương thực đó.
+
+57
+00:01:05,820 --> 00:01:06,680
+[SPEAKER_03]: Ngươi nói có lý.
+
+58
+00:01:07,380 --> 00:01:07,920
+[SPEAKER_03]: Đừng nói nữa,
+
+59
+00:01:08,160 --> 00:01:09,040
+[SPEAKER_03]: Cơm nóng này đúng là ngon thật.
+
+60
+00:01:09,560 --> 00:01:09,780
+[SPEAKER_00]: Đi,
+
+61
+00:01:09,960 --> 00:01:10,860
+[SPEAKER_00]: Không chơi với hắn nữa.
+
+62
+00:01:11,280 --> 00:01:12,380
+[SPEAKER_00]: Lão đại chúng ta đi đâu?
+
+63
+00:01:12,800 --> 00:01:13,860
+[SPEAKER_00]: Về tìm bà nội.
+
+64
+00:01:14,380 --> 00:01:14,560
+[SPEAKER_00]: Hừ,
+
+65
+00:01:14,740 --> 00:01:15,860
+[SPEAKER_00]: Ngày mai ta không đến nữa.
+
+66
+00:01:16,400 --> 00:01:17,580
+[SPEAKER_02]: Phương Hùng thấy họ thật sự bỏ đi,
+
+67
+00:01:17,840 --> 00:01:18,800
+[SPEAKER_02]: Vội vàng đuổi theo.
+
+68
+00:01:19,200 --> 00:01:20,220
+[SPEAKER_03]: Hình phạt của các ngươi vẫn chưa kết thúc,
+
+69
+00:01:20,440 --> 00:01:21,180
+[SPEAKER_03]: Không được tự ý rời đi.
+
+70
+00:01:21,600 --> 00:01:22,280
+[SPEAKER_02]: Không nghe không nghe,
+
+71
+00:01:22,640 --> 00:01:23,520
+[SPEAKER_02]: Hùng Hùng niệm kinh.
+
+72
+00:01:23,880 --> 00:01:24,980
+[SPEAKER_02]: Họ chạy không lại Phương Hùng,
+
+73
+00:01:25,260 --> 00:01:26,840
+[SPEAKER_02]: Thẩm Trân Châu rất nhanh đã bị bắt lại.
+
+74
+00:01:27,020 --> 00:01:27,800
+[SPEAKER_00]: Cương Đản ca,
+
+75
+00:01:28,040 --> 00:01:28,380
+[SPEAKER_00]: Cứu muội ấy,
+
+76
+00:01:28,780 --> 00:01:29,700
+[SPEAKER_00]: Đả đảo huấn luyện viên Hùng,
+
+77
+00:01:29,920 --> 00:01:30,940
+[SPEAKER_00]: Chúng ta muốn ăn no.
+
+78
+00:01:31,180 --> 00:01:32,400
+[SPEAKER_02]: Thiết Chùy nhìn đúng thời cơ,
+
+79
+00:01:32,680 --> 00:01:34,380
+[SPEAKER_02]: Cắn một phát vào ngực huấn luyện viên Hùng.
+
+80
+00:01:35,560 --> 00:01:36,500
+[SPEAKER_00]: Oa oa oa oa,
+
+81
+00:01:36,840 --> 00:01:37,920
+[SPEAKER_00]: Bắt nạt trẻ con rồi,
+
+82
+00:01:38,140 --> 00:01:39,680
+[SPEAKER_00]: Không cho người ta ăn no.
+
+83
+00:01:39,940 --> 00:01:40,620
+[SPEAKER_00]: Oa oa oa,
+
+84
+00:01:41,000 --> 00:01:43,220
+[SPEAKER_00]: Cậu nhỏ, tiểu Trân Châu của cậu sắp chết rồi.
+
+85
+00:01:43,460 --> 00:01:44,640
+[SPEAKER_02]: Cương Đản cũng bắt đầu gào khóc,
+
+86
+00:01:44,840 --> 00:01:46,160
+[SPEAKER_02]: Lúc ông nội đến đã dặn dò rồi.
+
+87
+00:01:46,340 --> 00:01:47,780
+[SPEAKER_02]: Thiết Chùy làm gì nó làm nấy,
+
+88
+00:01:48,000 --> 00:01:49,120
+[SPEAKER_02]: Thiết Chùy nói gì nó làm theo.
+
+89
+00:01:49,760 --> 00:01:51,940
+[SPEAKER_02]: Lưu Thúy Hoa không đợi được Thiết Chùy về ăn cơm nên đi tìm.
+
+90
+00:01:52,280 --> 00:01:52,740
+[SPEAKER_02]: Cục cưng,
+
+91
+00:01:53,020 --> 00:01:53,640
+[SPEAKER_01]: Đây là sao vậy.
+
+92
+00:01:55,820 --> 00:01:57,880
+[SPEAKER_00]: Họ nói muốn bỏ đói chết con,
+
+93
+00:01:58,040 --> 00:01:59,800
+[SPEAKER_00]: Không cho con ăn cơm.
+
+94
+00:02:00,240 --> 00:02:01,540
+[SPEAKER_00]: Bà nội con đói.
+
+95
+00:02:02,140 --> 00:02:02,900
+[SPEAKER_00]: Cậu nhỏ,
+
+96
+00:02:03,260 --> 00:02:04,940
+[SPEAKER_00]: Con lại sắp chết rồi.
+
+97
+00:02:05,620 --> 00:02:07,200
+[SPEAKER_02]: Cuối cùng chuyện này vẫn bị làm ầm lên trên.
+
+98
+00:02:07,480 --> 00:02:08,780
+[SPEAKER_02]: Hồ Chính Vĩ cố gắng giảng đạo lý,
+
+99
+00:02:09,020 --> 00:02:10,080
+[SPEAKER_01]: Lưu Thúy Hoa căn bản không nghe.
+
+100
+00:02:10,480 --> 00:02:11,240
+[SPEAKER_01]: Lúc đầu nói thế nào?
+
+101
+00:02:11,460 --> 00:02:12,420
+[SPEAKER_01]: Nói rằng trẻ con đến đây là để chơi,
+
+102
+00:02:12,580 --> 00:02:13,400
+[SPEAKER_01]: Không chịu khổ có thể ăn thịt.
+
+103
+00:02:13,640 --> 00:02:14,720
+[SPEAKER_01]: Bây giờ cơm cũng không được ăn,
+
+104
+00:02:14,880 --> 00:02:15,560
+[SPEAKER_01]: Chúng tôi muốn về nhà.
+
+105
+00:02:15,900 --> 00:02:16,880
+[SPEAKER_01]: Huấn luyện cái quái gì,
+
+106
+00:02:16,980 --> 00:02:18,400
+[SPEAKER_01]: Đứa trẻ mấy tuổi mà cơm cũng không cho ăn,
+
+107
+00:02:18,640 --> 00:02:19,240
+[SPEAKER_01]: Còn ra thể thống gì nữa?
+
+108
+00:02:19,680 --> 00:02:21,100
+[SPEAKER_03]: Cụ ơi cụ đừng kích động,
+
+109
+00:02:21,420 --> 00:02:22,280
+[SPEAKER_03]: Tục ngữ có câu.
+
+110
+00:02:22,520 --> 00:02:23,220
+[SPEAKER_01]: Tôi không nghe tục ngữ,
+
+111
+00:02:23,480 --> 00:02:24,760
+[SPEAKER_01]: Bây giờ có thể cho trẻ con đi ăn cơm không,
+
+112
+00:02:24,960 --> 00:02:25,820
+[SPEAKER_01]: Đã gần hai giờ rồi.
+
+113
+00:02:26,620 --> 00:02:27,060
+[SPEAKER_02]: Nhà ăn,
+
+114
+00:02:27,280 --> 00:02:29,020
+[SPEAKER_02]: Thiết Chùy được ăn cơm trắng thơm phức.
+
+115
+00:02:29,400 --> 00:02:31,180
+[SPEAKER_02]: Hồ Chính Vĩ thấy mình không trị được Lưu Thúy Hoa,
+
+116
+00:02:31,480 --> 00:02:33,060
+[SPEAKER_02]: Vội vàng cho người gọi vợ mình đến.
+
+117
+00:02:33,460 --> 00:02:33,920
+[SPEAKER_02]: Ái chà,
+
+118
+00:02:34,300 --> 00:02:36,580
+[SPEAKER_02]: Mấy cái ổ chó này làm loạn cả lên.
+
+119
+00:02:40,900 --> 00:02:44,420
+[SPEAKER_02]: Những lời này nói trúng tim đen của Lưu Thúy Hoa.
+
+120
+00:02:44,580 --> 00:02:45,220
+[SPEAKER_01]: Chứ còn gì nữa,
+
+121
+00:02:45,380 --> 00:02:46,560
+[SPEAKER_01]: Tôi không phản đối trẻ con chịu khổ,
+
+122
+00:02:46,760 --> 00:02:47,920
+[SPEAKER_01]: Nhưng cũng không thể không cho ăn cơm chứ.
+
+123
+00:02:48,300 --> 00:02:48,960
+[SPEAKER_01]: Nhìn từng đứa một này,
+
+124
+00:02:49,200 --> 00:02:50,280
+[SPEAKER_01]: Ăn như heo con vậy.
+
+125
+00:02:50,660 --> 00:02:51,120
+[SPEAKER_01]: Chứ còn gì nữa,
+
+126
+00:02:51,480 --> 00:02:52,680
+[SPEAKER_01]: Từng ông tướng một,
+
+127
+00:02:52,900 --> 00:02:53,640
+[SPEAKER_01]: Đả kích ngươi yên tâm,
+
+128
+00:02:54,120 --> 00:02:55,440
+[SPEAKER_01]: Đây là do họ không cân nhắc kỹ,
+
+129
+00:02:55,720 --> 00:02:57,760
+[SPEAKER_01]: Nhất định sẽ cho ngươi và bọn trẻ một lời giải thích.
+
+130
+00:02:58,160 --> 00:02:59,140
+[SPEAKER_02]: Còn cần giải thích gì nữa,
+
+131
+00:02:59,320 --> 00:03:01,060
+[SPEAKER_01]: Sau này có thể cho trẻ con ăn no là được rồi.
+
+132
+00:03:01,420 --> 00:03:02,200
+[SPEAKER_02]: Ví dụ như hắn ta,
+
+133
+00:03:02,520 --> 00:03:03,600
+[SPEAKER_02]: Sắp bị kỷ luật rồi.
+
+134
+00:03:04,000 --> 00:03:04,660
+[SPEAKER_02]: Nghe thấy vậy,
+
+135
+00:03:04,980 --> 00:03:06,020
+[SPEAKER_02]: Lưu Thúy Hoa càng hoảng hơn.
+
+136
+00:03:06,020 --> 00:03:07,720
+[SPEAKER_02]: Bà chỉ đơn thuần là muốn cho trẻ con ăn no,
+
+137
+00:03:07,840 --> 00:03:09,400
+[SPEAKER_02]: Nào ngờ lại có hậu quả nghiêm trọng như vậy.
+
+138
+00:03:09,820 --> 00:03:10,040
+[SPEAKER_01]: Không cần đâu,
+
+139
+00:03:10,320 --> 00:03:11,200
+[SPEAKER_01]: Cái người tên gì đó,
+
+140
+00:03:11,380 --> 00:03:12,700
+[SPEAKER_01]: Anh ta cũng chỉ là không biết chăm sóc trẻ con,
+
+141
+00:03:12,960 --> 00:03:14,300
+[SPEAKER_01]: Sau này học thêm chút là được rồi.
+
+142
+00:03:14,620 --> 00:03:15,880
+[SPEAKER_01]: Hở ra là kỷ luật này nọ.
+
+143
+00:03:16,140 --> 00:03:16,580
+[SPEAKER_00]: Thím ơi,
+
+144
+00:03:16,880 --> 00:03:19,000
+[SPEAKER_00]: Tuy huấn luyện viên Hùng có hơi đáng ghét,
+
+145
+00:03:19,180 --> 00:03:20,500
+[SPEAKER_00]: Nhưng anh ấy không phải người xấu đâu.
+
+146
+00:03:20,900 --> 00:03:21,840
+[SPEAKER_00]: Lão đại nói đúng.
+
+147
+00:03:22,340 --> 00:03:22,500
+[SPEAKER_03]: Này,
+
+148
+00:03:22,800 --> 00:03:23,920
+[SPEAKER_03]: Tôi thật sự không biết trông trẻ,
+
+149
+00:03:24,160 --> 00:03:24,480
+[SPEAKER_03]: Hay là?
+
+150
+00:03:24,700 --> 00:03:25,660
+[SPEAKER_00]: Không biết thì nói đi,
+
+151
+00:03:25,960 --> 00:03:26,720
+[SPEAKER_00]: Đánh chết đi được,
+
+152
+00:03:27,040 --> 00:03:27,900
+[SPEAKER_00]: Lát nữa tôi tìm ngươi.
+
+153
+00:03:37,000 --> 00:03:37,360
+[SPEAKER_00]: Đúng vậy,
+
+154
+00:03:37,360 --> 00:03:38,880
+[SPEAKER_00]: Bụng tôi đói meo rồi.
+
+155
+00:03:39,100 --> 00:03:40,440
+[SPEAKER_03]: Tôi thật sự cũng có chỗ không đúng,
+
+156
+00:03:40,700 --> 00:03:41,340
+[SPEAKER_03]: Chúng ta huề nhé,
+
+157
+00:03:41,780 --> 00:03:43,260
+[SPEAKER_03]: Sau này chúng ta ngoan ngoãn nghe lời huấn luyện thành tài.
+
+158
+00:03:43,720 --> 00:03:44,100
+[SPEAKER_01]: He he,
+
+159
+00:03:44,360 --> 00:03:44,760
+[SPEAKER_01]: He he.
+
+160
+00:03:45,280 --> 00:03:45,920
+[SPEAKER_01]: Thiết Chùy à,
+
+161
+00:03:46,140 --> 00:03:47,220
+[SPEAKER_01]: Sau này không được đánh người lung tung.
+
+162
+00:03:47,580 --> 00:03:48,960
+[SPEAKER_01]: Vậy người khác đánh con thì sao?
+
+163
+00:03:49,280 --> 00:03:50,380
+[SPEAKER_01]: Đánh con thì đánh lại,
+
+164
+00:03:50,620 --> 00:03:51,380
+[SPEAKER_01]: Đánh không lại thì chạy,
+
+165
+00:03:51,620 --> 00:03:52,440
+[SPEAKER_01]: Bà đi đánh giúp con.
+
+166
+00:03:52,880 --> 00:03:53,240
+[SPEAKER_01]: Được ạ.
+
+167
+00:03:53,740 --> 00:03:54,780
+[SPEAKER_01]: Vậy ngủ một lát đi,
+
+168
+00:03:54,940 --> 00:03:56,060
+[SPEAKER_01]: Ta dẫn các con đi bắt hải sản,
+
+169
+00:03:56,300 --> 00:03:57,440
+[SPEAKER_01]: Nghe nói bắt hải sản rất thú vị.
+
+170
+00:03:58,160 --> 00:03:58,660
+[SPEAKER_01]: Dậy rồi,
+
+171
+00:03:58,980 --> 00:04:00,140
+[SPEAKER_01]: Các con còn muốn đi bắt hải sản không?
+
+172
+00:04:00,600 --> 00:04:00,780
+[SPEAKER_02]: Có ạ.
+
+173
+00:04:01,440 --> 00:04:04,000
+[SPEAKER_02]: Hai chú gấu con hiên ngang đi phía trước,
+
+174
+00:04:04,480 --> 00:04:05,440
+[SPEAKER_02]: Hệ thống cũng tỏ vẻ mong đợi,
+
+175
+00:04:05,720 --> 00:04:06,780
+[SPEAKER_02]: Hải sản nó còn chưa được ăn.
+
+176
+00:04:07,100 --> 00:04:07,760
+[SPEAKER_00]: Tiểu ký chủ,
+
+177
+00:04:07,980 --> 00:04:09,100
+[SPEAKER_00]: Ngươi nhất định phải nhặt nhiều một chút.
+
+178
+00:04:09,520 --> 00:04:10,680
+[SPEAKER_00]: Ngươi đã lớn rồi,
+
+179
+00:04:10,900 --> 00:04:12,460
+[SPEAKER_00]: Phải học cách tự tìm đồ ăn.
+
+180
+00:04:12,920 --> 00:04:13,420
+[SPEAKER_00]: Âm âm âm,
+
+181
+00:04:13,740 --> 00:04:15,000
+[SPEAKER_00]: Người ta chỉ là một chú gà con thôi.
+
+182
+00:04:15,280 --> 00:04:16,420
+[SPEAKER_00]: Thật hết cách với ngươi.
+
+183
+00:04:16,820 --> 00:04:17,220
+[SPEAKER_00]: Lão đại,
+
+184
+00:04:17,460 --> 00:04:18,720
+[SPEAKER_00]: Con gà này của ngươi dễ nuôi thật,
+
+185
+00:04:18,960 --> 00:04:20,400
+[SPEAKER_00]: Vừa không ồn ào lại không đi bậy,
+
+186
+00:04:20,640 --> 00:04:21,980
+[SPEAKER_00]: Về nhà ta cũng muốn nuôi một con.
+
+187
+00:04:22,300 --> 00:04:24,140
+[SPEAKER_00]: Đây là gà con độc quyền của ta đó.
+
+188
+00:04:24,540 --> 00:04:24,740
+[SPEAKER_00]: Oa,
+
+189
+00:04:25,060 --> 00:04:25,300
+[SPEAKER_00]: Ngươi xem,
+
+190
+00:04:25,540 --> 00:04:26,680
+[SPEAKER_00]: Trong biển toàn là nước.
