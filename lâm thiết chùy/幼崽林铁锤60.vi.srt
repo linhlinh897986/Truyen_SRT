@@ -1,0 +1,839 @@
+1
+00:00:00,000 --> 00:00:00,360
+[SPEAKER_00]: Nhiệm vụ?
+
+2
+00:00:00,580 --> 00:00:01,620
+[SPEAKER_00]: Ngày nào cũng lười biếng,
+
+3
+00:00:01,780 --> 00:00:02,500
+[SPEAKER_00]: chỉ biết ăn,
+
+4
+00:00:02,700 --> 00:00:03,980
+[SPEAKER_00]: béo thành một quả bóng rồi.
+
+5
+00:00:04,380 --> 00:00:06,140
+[SPEAKER_00]: Nhiệm vụ thu thập tóc của mười người đã hoàn thành.
+
+6
+00:00:06,680 --> 00:00:08,280
+[SPEAKER_00]: Thưởng ngẫu nhiên chỉ số IQ cộng 1,
+
+7
+00:00:08,560 --> 00:00:09,740
+[SPEAKER_00]: chỉ số IQ hiện tại là 100.
+
+8
+00:00:10,240 --> 00:00:11,140
+[SPEAKER_00]: Thưởng 100 tệ,
+
+9
+00:00:11,440 --> 00:00:13,120
+[SPEAKER_00]: phần thưởng tích điểm đúng giờ đã được chuyển vào tài khoản,
+
+10
+00:00:13,320 --> 00:00:14,480
+[SPEAKER_00]: số điểm hiện tại là 110.
+
+11
+00:00:15,200 --> 00:00:16,620
+[SPEAKER_00]: Tất cả các nhiệm vụ ngắn hạn đã hoàn thành,
+
+12
+00:00:17,080 --> 00:00:18,920
+[SPEAKER_00]: thời hạn nhiệm vụ dài hạn còn 128.
+
+13
+00:00:19,320 --> 00:00:20,440
+[SPEAKER_00]: Hệ thống đang nâng cấp,
+
+14
+00:00:20,760 --> 00:00:21,820
+[SPEAKER_00]: thời gian dự kiến là một tháng.
+
+15
+00:00:22,260 --> 00:00:23,480
+[SPEAKER_00]: Lảm nhảm nhiều quá,
+
+16
+00:00:23,700 --> 00:00:24,620
+[SPEAKER_00]: chúng ta đi ngủ thôi.
+
+17
+00:00:25,400 --> 00:00:26,200
+[SPEAKER_02]: Sau giấc ngủ trưa,
+
+18
+00:00:26,500 --> 00:00:27,500
+[SPEAKER_02]: Thiết Chùy uể oải trở về.
+
+19
+00:00:27,500 --> 00:00:28,180
+[SPEAKER_00]: Hệ thống,
+
+20
+00:00:28,300 --> 00:00:29,280
+[SPEAKER_00]: mở Hồng Châu ra,
+
+21
+00:00:29,520 --> 00:00:31,200
+[SPEAKER_00]: hôm nay chúng ta tiếp tục nghe nhạc nhé.
+
+22
+00:00:31,560 --> 00:00:33,640
+[SPEAKER_02]: Hệ thống thường ngày ríu rít bỗng im lặng lạ thường.
+
+23
+00:00:33,960 --> 00:00:34,920
+[SPEAKER_02]: Thiết Chùy tìm một vòng,
+
+24
+00:00:35,180 --> 00:00:37,040
+[SPEAKER_02]: tìm thấy hệ thống mềm nhũn dưới chăn.
+
+25
+00:00:37,360 --> 00:00:38,060
+[SPEAKER_02]: Lắc mấy cái,
+
+26
+00:00:38,320 --> 00:00:39,020
+[SPEAKER_02]: nó không động đậy,
+
+27
+00:00:39,320 --> 00:00:40,080
+[SPEAKER_02]: như chết rồi.
+
+28
+00:00:40,540 --> 00:00:41,120
+[SPEAKER_00]: Hệ thống,
+
+29
+00:00:41,340 --> 00:00:42,940
+[SPEAKER_00]: hệ thống, mày nói gì đi chứ.
+
+30
+00:00:44,820 --> 00:00:45,900
+[SPEAKER_00]: Nghe thấy tiếng khóc của cô bé,
+
+31
+00:00:46,180 --> 00:00:46,620
+[SPEAKER_02]: Lưu Thúy Hoa,
+
+32
+00:00:46,860 --> 00:00:47,260
+[SPEAKER_02]: Bạch Kiểm,
+
+33
+00:00:47,600 --> 00:00:49,040
+[SPEAKER_02]: Lâm Thượng Cận vội vàng đứng dậy đi tới.
+
+34
+00:00:49,360 --> 00:00:50,200
+[SPEAKER_02]: Cục cưng sao thế này?
+
+35
+00:00:51,080 --> 00:00:52,860
+[SPEAKER_02]: Hệ thống bị con đè chết rồi.
+
+36
+00:00:53,280 --> 00:00:54,680
+[SPEAKER_02]: Lâm Thượng nhận lấy hệ thống xem xét kỹ.
+
+37
+00:00:55,060 --> 00:00:55,940
+[SPEAKER_03]: Đúng là chết rồi.
+
+38
+00:00:55,940 --> 00:00:57,060
+[SPEAKER_02]: Không ai nói gì,
+
+39
+00:00:57,220 --> 00:00:59,360
+[SPEAKER_02]: họ đều biết con gà nhỏ này và Thiết Chùy rất thân thiết.
+
+40
+00:00:59,560 --> 00:01:00,300
+[SPEAKER_01]: Đại tiên à,
+
+41
+00:01:00,480 --> 00:01:01,880
+[SPEAKER_01]: có trách thì trách bà già này,
+
+42
+00:01:02,060 --> 00:01:03,360
+[SPEAKER_01]: đừng trách Thiết Chùy.
+
+43
+00:01:03,840 --> 00:01:04,300
+[SPEAKER_03]: Con gái à,
+
+44
+00:01:04,540 --> 00:01:05,380
+[SPEAKER_03]: gà chết không thể sống lại,
+
+45
+00:01:05,680 --> 00:01:07,100
+[SPEAKER_03]: chúng ta làm cho nó một cái quan tài để chôn cất cho yên nghỉ nhé.
+
+46
+00:01:08,640 --> 00:01:09,200
+[SPEAKER_00]: Hệ thống,
+
+47
+00:01:09,440 --> 00:01:11,460
+[SPEAKER_00]: bình thường mày thích ăn cái này nhất,
+
+48
+00:01:11,720 --> 00:01:14,120
+[SPEAKER_00]: hôm nay cho mày ăn hai miếng nhé,
+
+49
+00:01:14,380 --> 00:01:15,480
+[SPEAKER_00]: mày mau dậy ăn đi.
+
+50
+00:01:15,960 --> 00:01:16,420
+[SPEAKER_02]: Rất lâu sau,
+
+51
+00:01:16,800 --> 00:01:17,940
+[SPEAKER_02]: hệ thống vẫn không có động tĩnh,
+
+52
+00:01:18,220 --> 00:01:19,580
+[SPEAKER_02]: Thiết Chùy lại khóc òa lên.
+
+53
+00:01:20,100 --> 00:01:20,280
+[SPEAKER_03]: Ay,
+
+54
+00:01:20,580 --> 00:01:20,840
+[SPEAKER_03]: cục cưng,
+
+55
+00:01:21,100 --> 00:01:22,320
+[SPEAKER_03]: con phải biết rằng con người rồi sẽ có lúc ly biệt,
+
+56
+00:01:22,620 --> 00:01:23,640
+[SPEAKER_03]: hệ thống ở bên con lâu như vậy,
+
+57
+00:01:23,940 --> 00:01:25,020
+[SPEAKER_03]: bố mẹ nó cũng nhớ nó rồi, đúng không.
+
+58
+00:01:25,020 --> 00:01:26,820
+[SPEAKER_00]: Vậy nó có quay lại không?
+
+59
+00:01:27,280 --> 00:01:27,360
+[SPEAKER_03]: Cái này,
+
+60
+00:01:27,620 --> 00:01:28,900
+[SPEAKER_00]: Lâm Thượng Tĩnh cũng không nỡ nói thẳng.
+
+61
+00:01:29,240 --> 00:01:30,160
+[SPEAKER_03]: Hoặc là đợi nó nhớ con,
+
+62
+00:01:30,360 --> 00:01:30,980
+[SPEAKER_03]: nó sẽ quay lại.
+
+63
+00:01:31,600 --> 00:01:33,080
+[SPEAKER_00]: Vậy con phải đợi nó nhớ con,
+
+64
+00:01:33,400 --> 00:01:34,880
+[SPEAKER_00]: nhớ con thì nó sẽ sống lại.
+
+65
+00:01:35,340 --> 00:01:36,480
+[SPEAKER_00]: Lâm Thượng Tĩnh khuyên mãi,
+
+66
+00:01:36,740 --> 00:01:38,380
+[SPEAKER_02]: mới thuyết phục được Thiết Chùy chôn hệ thống,
+
+67
+00:01:38,560 --> 00:01:39,540
+[SPEAKER_02]: chôn ngay trước cửa nhà cô bé.
+
+68
+00:01:39,940 --> 00:01:41,820
+[SPEAKER_00]: Phải dùng một cái hộp nhỏ đựng,
+
+69
+00:01:42,020 --> 00:01:43,620
+[SPEAKER_00]: nếu không đợi hệ thống quay lại,
+
+70
+00:01:43,820 --> 00:01:45,280
+[SPEAKER_00]: nó sẽ ăn phải đất.
+
+71
+00:01:45,560 --> 00:01:47,300
+[SPEAKER_00]: Lâm Thượng Tĩnh thức đêm lên núi đốn gỗ,
+
+72
+00:01:47,540 --> 00:01:49,040
+[SPEAKER_02]: làm cho hệ thống một cái quan tài thật to.
+
+73
+00:01:49,360 --> 00:01:51,040
+[SPEAKER_02]: Lưu Thúy Hoa còn may cho nó một bộ quần áo,
+
+74
+00:01:51,280 --> 00:01:52,760
+[SPEAKER_02]: Bạch Kiểm may cho một cái chăn nhỏ.
+
+75
+00:01:53,880 --> 00:01:55,300
+[SPEAKER_00]: Tao biết mày nhớ bố mẹ rồi,
+
+76
+00:01:55,480 --> 00:01:58,060
+[SPEAKER_00]: lúc rảnh rỗi nhớ phải nhớ tao nữa nhé,
+
+77
+00:01:58,500 --> 00:01:59,640
+[SPEAKER_00]: tao cũng sẽ nhớ mày.
+
+78
+00:01:59,880 --> 00:02:01,540
+[SPEAKER_00]: Mấy ngày liền, đêm nào Thiết Chùy cũng khóc,
+
+79
+00:02:01,840 --> 00:02:03,400
+[SPEAKER_00]: Bạch Kiểm luôn ở bên cạnh cô bé.
+
+80
+00:02:04,300 --> 00:02:05,800
+[SPEAKER_00]: Thời gian thấm thoắt đã hơn một tháng trôi qua.
+
+81
+00:02:06,240 --> 00:02:06,440
+[SPEAKER_00]: Mẹ,
+
+82
+00:02:06,680 --> 00:02:08,020
+[SPEAKER_00]: sao bố vẫn chưa về ạ,
+
+83
+00:02:08,220 --> 00:02:09,180
+[SPEAKER_00]: đã đi năm ngày rồi.
+
+84
+00:02:09,560 --> 00:02:11,680
+[SPEAKER_02]: Bố con nói lần này đi về mất cả tuần cơ mà?
+
+85
+00:02:12,020 --> 00:02:12,800
+[SPEAKER_02]: Chán lắm phải không,
+
+86
+00:02:13,120 --> 00:02:14,720
+[SPEAKER_02]: có muốn đi làm ở hợp tác xã cung tiêu với mẹ không?
+
+87
+00:02:15,040 --> 00:02:16,060
+[SPEAKER_02]: Chán thì cũng không hẳn,
+
+88
+00:02:16,340 --> 00:02:19,840
+[SPEAKER_02]: mấy hôm nay Thiết Chùy và Thẩm Trân Châu theo Trương Đại Cước và Lưu Thúy Hoa lên núi nhặt củi.
+
+89
+00:02:19,840 --> 00:02:20,840
+[SPEAKER_00]: Con không đi đâu,
+
+90
+00:02:21,220 --> 00:02:22,220
+[SPEAKER_00]: chán lắm,
+
+91
+00:02:22,440 --> 00:02:24,780
+[SPEAKER_00]: vẫn là chơi với Trân Châu và các em vui hơn.
+
+92
+00:02:25,520 --> 00:02:26,480
+[SPEAKER_02]: Hôm nay là sinh nhật Thiết Chùy?
+
+93
+00:02:26,840 --> 00:02:27,280
+[SPEAKER_00]: Bà nội,
+
+94
+00:02:27,520 --> 00:02:28,860
+[SPEAKER_00]: hôm nay là sinh nhật con phải không?
+
+95
+00:02:29,320 --> 00:02:30,360
+[SPEAKER_00]: Chỉ có sinh nhật,
+
+96
+00:02:30,700 --> 00:02:32,160
+[SPEAKER_00]: trong mì mới có thịt và hai quả trứng.
+
+97
+00:02:32,520 --> 00:02:32,880
+[SPEAKER_01]: Đúng vậy,
+
+98
+00:02:33,180 --> 00:02:34,700
+[SPEAKER_01]: Thiết Chùy nhà ta lại lớn thêm một tuổi rồi.
+
+99
+00:02:35,100 --> 00:02:36,520
+[SPEAKER_01]: Đây là quà sinh nhật cho con gái yêu của mẹ,
+
+100
+00:02:36,760 --> 00:02:37,900
+[SPEAKER_01]: cảm ơn con đã đến thế giới này,
+
+101
+00:02:38,080 --> 00:02:38,720
+[SPEAKER_01]: làm con của mẹ.
+
+102
+00:02:39,160 --> 00:02:39,760
+[SPEAKER_00]: Cảm ơn mẹ,
+
+103
+00:02:40,040 --> 00:02:40,200
+[SPEAKER_00]: mẹ,
+
+104
+00:02:40,480 --> 00:02:41,040
+[SPEAKER_00]: con yêu mẹ,
+
+105
+00:02:41,340 --> 00:02:42,380
+[SPEAKER_00]: cảm ơn mẹ đã làm mẹ của con,
+
+106
+00:02:42,700 --> 00:02:43,380
+[SPEAKER_00]: và cả bà nội nữa.
+
+107
+00:02:43,760 --> 00:02:44,680
+[SPEAKER_00]: Ngoan, ăn mì đi,
+
+108
+00:02:44,940 --> 00:02:46,220
+[SPEAKER_00]: lát nữa nguội sẽ không ngon.
+
+109
+00:02:46,560 --> 00:02:46,840
+[SPEAKER_00]: Vâng,
+
+110
+00:02:47,580 --> 00:02:49,260
+[SPEAKER_00]: mì hôm nay ngon lạ thường.
+
+111
+00:02:49,260 --> 00:02:50,140
+[SPEAKER_00]: Ăn mì xong,
+
+112
+00:02:50,340 --> 00:02:52,140
+[SPEAKER_00]: Thiết Chùy vui vẻ lại có ý nghĩ tinh quái.
+
+113
+00:02:52,500 --> 00:02:52,600
+[SPEAKER_00]: Mẹ,
+
+114
+00:02:52,860 --> 00:02:54,040
+[SPEAKER_00]: con muốn phiếu ạ?
+
+115
+00:02:54,280 --> 00:02:54,820
+[SPEAKER_02]: Con muốn phiếu làm gì?
+
+116
+00:02:55,100 --> 00:02:56,460
+[SPEAKER_00]: Con muốn mua một con ngỗng lớn.
+
+117
+00:02:57,000 --> 00:02:58,000
+[SPEAKER_02]: Mua con lớn không cần phiếu.
+
+118
+00:02:58,460 --> 00:02:59,980
+[SPEAKER_00]: Tại sao mua ngỗng không cần phiếu,
+
+119
+00:03:00,240 --> 00:03:01,280
+[SPEAKER_00]: mà ăn ngỗng lại cần phiếu.
+
+120
+00:03:01,680 --> 00:03:02,340
+[SPEAKER_02]: Hết cách,
+
+121
+00:03:02,620 --> 00:03:04,020
+[SPEAKER_02]: Thiết Chùy đành phải nói thật.
+
+122
+00:03:04,320 --> 00:03:05,540
+[SPEAKER_00]: Con muốn mời chị Tiểu Tây,
+
+123
+00:03:05,840 --> 00:03:07,900
+[SPEAKER_00]: Tiểu Điềm Điềm và các em trai đến thị trấn,
+
+124
+00:03:08,100 --> 00:03:10,480
+[SPEAKER_00]: tìm chị Tiểu Mễ Châu ăn lẩu ngỗng.
+
+125
+00:03:10,840 --> 00:03:11,160
+[SPEAKER_00]: Mẹ,
+
+126
+00:03:11,420 --> 00:03:12,560
+[SPEAKER_00]: mẹ cho con đi nhé?
+
+127
+00:03:12,760 --> 00:03:13,800
+[SPEAKER_02]: Bạch Kiểm đếm số người,
+
+128
+00:03:14,120 --> 00:03:15,260
+[SPEAKER_02]: cộng thêm hai đứa con nhà anh cả,
+
+129
+00:03:15,520 --> 00:03:16,200
+[SPEAKER_02]: tổng cộng chín đứa,
+
+130
+00:03:16,480 --> 00:03:17,720
+[SPEAKER_02]: cũng không biết phiếu thịt có đủ không.
+
+131
+00:03:18,080 --> 00:03:20,540
+[SPEAKER_02]: Anh vào phòng lấy hết bốn cân phiếu thịt của Hoa Sinh ra.
+
+132
+00:03:20,720 --> 00:03:21,620
+[SPEAKER_02]: Đợi bố con về,
+
+133
+00:03:21,820 --> 00:03:22,860
+[SPEAKER_02]: con và bố cùng đi được không?
+
+134
+00:03:23,440 --> 00:03:25,160
+[SPEAKER_02]: Anh Thượng Cận hôm nay chắc chắn sẽ về,
+
+135
+00:03:25,320 --> 00:03:26,840
+[SPEAKER_01]: anh ấy chưa bao giờ vắng mặt trong sinh nhật con gái,
+
+136
+00:03:27,200 --> 00:03:28,460
+[SPEAKER_01]: hay là con đưa bà nội đi cùng.
+
+137
+00:03:28,760 --> 00:03:29,220
+[SPEAKER_01]: Vừa hay,
+
+138
+00:03:29,400 --> 00:03:31,220
+[SPEAKER_01]: đưa các con đến đó rồi bà cũng đi mua ít đồ.
+
+139
+00:03:31,640 --> 00:03:32,780
+[SPEAKER_02]: Hệ thống nâng cấp hoàn tất,
+
+140
+00:03:33,060 --> 00:03:33,580
+[SPEAKER_00]: Tiểu ký chủ,
+
+141
+00:03:33,760 --> 00:03:34,260
+[SPEAKER_00]: ta đã về.
+
+142
+00:03:34,760 --> 00:03:36,420
+[SPEAKER_02]: Bỗng nhiên nghe thấy giọng nói quen thuộc, ngọt ngào này,
+
+143
+00:03:36,680 --> 00:03:37,500
+[SPEAKER_02]: Thiết Chùy sững sờ.
+
+144
+00:03:37,500 --> 00:03:38,600
+[SPEAKER_02]: Sao lại tối thế này?
+
+145
+00:03:38,780 --> 00:03:39,440
+[SPEAKER_00]: Tiểu ký chủ,
+
+146
+00:03:39,600 --> 00:03:40,800
+[SPEAKER_00]: con nhốt ta trong tủ à.
+
+147
+00:03:41,360 --> 00:03:41,580
+[SPEAKER_00]: Mẹ,
+
+148
+00:03:41,860 --> 00:03:42,040
+[SPEAKER_00]: mẹ,
+
+149
+00:03:42,280 --> 00:03:42,660
+[SPEAKER_00]: bà nội,
+
+150
+00:03:42,980 --> 00:03:43,320
+[SPEAKER_00]: hệ thống,
+
+151
+00:03:43,600 --> 00:03:44,560
+[SPEAKER_00]: hệ thống nó về rồi,
+
+152
+00:03:44,800 --> 00:03:46,700
+[SPEAKER_00]: con biết ngay là nó cũng nhớ con mà.
+
+153
+00:03:47,100 --> 00:03:47,380
+[SPEAKER_01]: Thật không?
+
+154
+00:03:47,760 --> 00:03:48,140
+[SPEAKER_00]: Thật ạ,
+
+155
+00:03:48,400 --> 00:03:49,600
+[SPEAKER_00]: chúng ta mau đào nó lên.
+
+156
+00:03:50,360 --> 00:03:51,300
+[SPEAKER_00]: Ta chỉ ngủ một giấc,
+
+157
+00:03:51,680 --> 00:03:52,940
+[SPEAKER_00]: tiểu ký chủ đã chôn ta rồi.
+
+158
+00:03:53,280 --> 00:03:53,980
+[SPEAKER_00]: Hu hu hu hu.
+
+159
+00:03:54,260 --> 00:03:54,720
+[SPEAKER_00]: Hệ thống,
+
+160
+00:03:54,960 --> 00:03:57,320
+[SPEAKER_00]: mày ngủ nhiều ngày lắm rồi đấy.
+
+161
+00:03:57,720 --> 00:03:58,020
+[SPEAKER_00]: Gì cơ,
+
+162
+00:03:58,240 --> 00:03:59,200
+[SPEAKER_00]: ta ngủ một tháng rồi à,
+
+163
+00:03:59,500 --> 00:04:00,580
+[SPEAKER_00]: sao ta không có cảm giác gì?
+
+164
+00:04:01,020 --> 00:04:01,580
+[SPEAKER_00]: Hệ thống,
+
+165
+00:04:01,800 --> 00:04:02,880
+[SPEAKER_00]: tao nhớ mày quá.
+
+166
+00:04:02,880 --> 00:04:03,800
+[SPEAKER_00]: Tiểu ký chủ,
+
+167
+00:04:03,920 --> 00:04:04,920
+[SPEAKER_00]: ta cũng nhớ con lắm.
+
+168
+00:04:05,440 --> 00:04:05,960
+[SPEAKER_00]: Hệ thống,
+
+169
+00:04:06,160 --> 00:04:07,360
+[SPEAKER_00]: lần sau mày nhớ nhà,
+
+170
+00:04:07,640 --> 00:04:09,160
+[SPEAKER_00]: nói trước với tao được không,
+
+171
+00:04:09,780 --> 00:04:10,800
+[SPEAKER_00]: đột nhiên chết,
+
+172
+00:04:11,040 --> 00:04:11,940
+[SPEAKER_00]: đáng sợ lắm.
+
+173
+00:04:12,320 --> 00:04:13,120
+[SPEAKER_00]: Được thôi, được thôi.
+
+174
+00:04:13,500 --> 00:04:14,320
+[SPEAKER_02]: Cứ đồng ý trước đã,
+
+175
+00:04:14,580 --> 00:04:15,860
+[SPEAKER_02]: chắc sau này cũng không nâng cấp nữa đâu.
+
+176
+00:04:16,380 --> 00:04:16,640
+[SPEAKER_00]: Đúng rồi,
+
+177
+00:04:16,700 --> 00:04:17,200
+[SPEAKER_00]: tiểu ký chủ,
+
+178
+00:04:17,560 --> 00:04:19,020
+[SPEAKER_00]: chế độ hoạt hình đã bị hủy,
+
+179
+00:04:19,300 --> 00:04:20,940
+[SPEAKER_00]: nhiệm vụ phải đợi con đi học mới làm mới được.
+
+180
+00:04:21,320 --> 00:04:23,580
+[SPEAKER_00]: Mỗi ngày các vật phẩm trong hệ thống sẽ được làm mới,
+
+181
+00:04:23,880 --> 00:04:25,380
+[SPEAKER_00]: có thể nhận được gì thì tùy vào vận may.
+
+182
+00:04:25,780 --> 00:04:26,420
+[SPEAKER_02]: Nói cách khác,
+
+183
+00:04:26,740 --> 00:04:28,060
+[SPEAKER_02]: sau này nó không thể tự ý bỏ túi riêng,
+
+184
+00:04:28,260 --> 00:04:29,580
+[SPEAKER_02]: tự mình nhập hàng về bán nữa.
+
+185
+00:04:29,960 --> 00:04:31,360
+[SPEAKER_02]: Đương nhiên những thứ trước đây chưa bán hết,
+
+186
+00:04:31,560 --> 00:04:32,220
+[SPEAKER_02]: vẫn có thể bán.
+
+187
+00:04:32,220 --> 00:04:32,860
+[SPEAKER_02]: A,
+
+188
+00:04:33,160 --> 00:04:34,600
+[SPEAKER_00]: vậy là không còn đồ ăn ngon nữa à?
+
+189
+00:04:35,020 --> 00:04:35,980
+[SPEAKER_00]: Nhận được đồ ăn ngon,
+
+190
+00:04:36,160 --> 00:04:37,120
+[SPEAKER_00]: ta có thể nói cho con.
+
+191
+00:04:37,540 --> 00:04:37,940
+[SPEAKER_00]: He he,
+
+192
+00:04:38,180 --> 00:04:39,340
+[SPEAKER_00]: đến lúc đó còn có thể ăn ké một ít.
+
+193
+00:04:39,720 --> 00:04:40,080
+[SPEAKER_00]: Được,
+
+194
+00:04:40,460 --> 00:04:42,600
+[SPEAKER_00]: đây là quà sinh nhật mẹ tặng con đó.
+
+195
+00:04:42,840 --> 00:04:46,080
+[SPEAKER_00]: Lát nữa con định đưa các em đi ăn lẩu ngỗng.
+
+196
+00:04:46,300 --> 00:04:47,080
+[SPEAKER_00]: Hệ thống hiểu ý ngay.
+
+197
+00:04:47,420 --> 00:04:48,040
+[SPEAKER_00]: Tiểu ký chủ,
+
+198
+00:04:48,380 --> 00:04:50,160
+[SPEAKER_00]: đây là quà sinh nhật của bổn hệ thống tặng con.
+
+199
+00:04:50,580 --> 00:04:51,660
+[SPEAKER_02]: Giá nhập là bao nhiêu nhỉ,
+
+200
+00:04:51,880 --> 00:04:52,440
+[SPEAKER_02]: nó quên rồi,
+
+201
+00:04:52,720 --> 00:04:53,660
+[SPEAKER_02]: dù sao cũng không đắt.
+
+202
+00:04:53,980 --> 00:04:55,340
+[SPEAKER_02]: Nhưng chất lượng vẫn được đảm bảo,
+
+203
+00:04:55,580 --> 00:04:57,140
+[SPEAKER_02]: tốt hơn nhiều so với quần áo thời đại này.
+
+204
+00:04:57,600 --> 00:04:58,080
+[SPEAKER_00]: Cái này, cái này,
+
+205
+00:04:58,320 --> 00:04:59,200
+[SPEAKER_00]: đẹp quá,
+
+206
+00:04:59,460 --> 00:05:01,360
+[SPEAKER_00]: lát nữa thưởng cho mày ăn thêm hai miếng thịt.
+
+207
+00:05:01,360 --> 00:05:02,140
+[SPEAKER_00]: Bà nội,
+
+208
+00:05:02,320 --> 00:05:02,700
+[SPEAKER_00]: bà nội,
+
+209
+00:05:02,880 --> 00:05:03,420
+[SPEAKER_00]: bà mau đến đây.
+
+210
+00:05:03,720 --> 00:05:05,580
+[SPEAKER_02]: Chẳng lẽ tiểu đại tiên lại chết rồi.
